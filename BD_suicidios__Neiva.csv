@@ -1,0 +1,904 @@
+Año,Mes,Fecha y hora,Dia de la semana,Comuna/Corregimiento,Area del Hecho,Clase de Area Hecho,Genero,Edad,Mecanismo Muerte,Evento relacionado con el hecho
+2012,1,2012-01-01T01:15:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma Blanca,Violencia instrumental
+2012,1,2012-01-07T23:20:00.000,sábado,4,Zona urbana,Bar o similares,Masculino,21,Arma Blanca,Violencia impulsiva o expresiva
+2012,1,2012-01-07T00:30:00.000,sábado,7,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia impulsiva o expresiva
+2012,1,2012-01-11T12:00:00.000,miércoles,8,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma de Fuego,Violencia impulsiva o expresiva
+2012,1,2012-01-13T20:15:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma de Fuego,Violencia impulsiva o expresiva
+2012,1,2012-01-14T20:10:00.000,sábado,1,Zona urbana,Espacio o Vía Pública,Femenino,15,En estudio,Violencia instrumental
+2012,1,2012-01-14T21:00:00.000,sábado,2,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma Blanca,Violencia instrumental
+2012,1,2012-01-16T11:50:00.000,lunes,2,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia instrumental
+2012,1,2012-01-16T20:30:00.000,lunes,10,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma Blanca,Desconocido / Por Establecer
+2012,1,2012-01-25T19:00:00.000,miércoles,7,Zona urbana,Espacio o Vía Pública,Masculino,20,Arma de Fuego,Violencia instrumental
+2012,2,2012-02-11T12:00:00.000,sábado,10,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma de Fuego,Violencia instrumental
+2012,2,2012-02-11T12:00:00.000,sábado,10,Zona urbana,Espacio o Vía Pública,Masculino,47,Arma de Fuego,Violencia instrumental
+2012,2,2012-02-12T23:00:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia impulsiva o expresiva
+2012,2,2012-02-14T14:00:00.000,martes,Aipecito,Zona Rural,Trocha,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2012,2,2012-02-16T13:30:00.000,jueves,6,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma de Fuego,Violencia impulsiva o expresiva
+2012,2,2012-02-18T19:30:00.000,sábado,8,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma de Fuego,Violencia impulsiva o expresiva
+2012,2,2012-02-19T21:30:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2012,2,2012-02-19T07:00:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Violencia impulsiva o expresiva
+2012,2,2012-02-27T23:34:00.000,lunes,9,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma Blanca,Violencia impulsiva o expresiva
+2012,3,2012-03-08T17:05:00.000,jueves,8,Zona urbana,Espacio o Vía Pública,Masculino,76,Arma Contundente,Violencia impulsiva o expresiva
+2012,3,2012-03-17T21:00:00.000,sábado,5,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2012,3,2012-03-28T18:00:00.000,miércoles,8,Zona urbana,Espacio o Vía Pública,Masculino,36,Arma de Fuego,Violencia impulsiva o expresiva
+2012,4,2012-04-05T04:50:00.000,jueves,9,Zona urbana,Vivienda,Masculino,59,Arma Blanca,Violencia impulsiva o expresiva
+2012,4,2012-04-08T22:45:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,15,Arma de Fuego,Violencia impulsiva o expresiva
+2012,4,2012-04-09T18:40:00.000,lunes,3,Zona urbana,Espacio o Vía Pública,Femenino,57,Otra arma,Violencia instrumental
+2012,4,2012-04-10T02:50:00.000,martes,8,Zona urbana,Espacio o Vía Pública,Masculino,53,Arma Blanca,Violencia impulsiva o expresiva
+2012,4,2012-04-21T10:45:00.000,sábado,1,Zona urbana,Espacio o Vía Pública,Masculino,41,Arma de Fuego,Violencia instrumental
+2012,4,2012-04-22T08:30:00.000,domingo,Ninguna,Zona urbana,Rio / Laguna,Masculino,28,Arma de Fuego,Violencia instrumental
+2012,5,2012-05-03T23:40:00.000,jueves,7,Zona urbana,Espacio o Vía Pública,Masculino,43,Arma Blanca,Violencia impulsiva o expresiva
+2012,5,2012-05-03T22:00:00.000,jueves,4,Zona urbana,Lugar de Trabajo,Masculino,51,Arma de Fuego,Violencia impulsiva o expresiva
+2012,5,2012-05-06T02:00:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma de Fuego,Violencia impulsiva o expresiva
+2012,5,2012-05-14T15:15:00.000,lunes,6,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma Blanca,Violencia impulsiva o expresiva
+2012,5,2012-05-23T21:30:00.000,miércoles,6,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia impulsiva o expresiva
+2012,5,2012-05-26T06:00:00.000,sábado,8,Zona urbana,Espacio o Vía Pública,Masculino,36,Arma de Fuego,Violencia impulsiva o expresiva
+2012,5,2012-05-26T23:50:00.000,sábado,El Caguán,Zona urbana,Espacio o Vía Pública,Masculino,38,Arma Blanca,Violencia impulsiva o expresiva
+2012,6,2012-06-02T22:30:00.000,sábado,9,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia impulsiva o expresiva
+2012,6,2012-06-12T21:20:00.000,martes,6,Zona urbana,Vivienda,Masculino,54,Arma de Fuego,Desconocido / Por Establecer
+2012,6,2012-06-14T17:50:00.000,jueves,6,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma de Fuego,Violencia instrumental
+2012,6,2012-06-17T05:30:00.000,domingo,4,Zona urbana,Espacio o Vía Pública,Masculino,27,Arma de Fuego,Violencia impulsiva o expresiva
+2012,6,2012-06-19T06:35:00.000,martes,8,Zona urbana,Vivienda,Masculino,58,Arma de Fuego,Violencia instrumental
+2012,6,2012-06-24T03:10:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia impulsiva o expresiva
+2012,6,2012-06-24T06:50:00.000,domingo,10,Zona urbana,Otro Lugar,Masculino,38,Arma Blanca,Violencia impulsiva o expresiva
+2012,6,2012-06-30T20:00:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,35,Arma de Fuego,Violencia impulsiva o expresiva
+2012,7,2012-07-01T19:00:00.000,domingo,4,Zona urbana,Espacio o Vía Pública,Masculino,16,Arma Blanca,Violencia impulsiva o expresiva
+2012,7,2012-07-02T23:50:00.000,lunes,1,Zona urbana,Cárcel,Masculino,15,Estrangulación /Asfixia,Desconocido / Por Establecer
+2012,7,2012-07-08T17:20:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia instrumental
+2012,7,2012-07-08T02:40:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Femenino,55,Arma de Fuego,Violencia impulsiva o expresiva
+2012,7,2012-07-19T06:00:00.000,jueves,6,Zona urbana,Vivienda,Masculino,21,Arma de Fuego,Violencia instrumental
+2012,7,2012-07-20T20:15:00.000,viernes,9,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Violencia impulsiva o expresiva
+2012,7,2012-07-24T21:39:00.000,martes,10,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia impulsiva o expresiva
+2012,7,2012-07-29T00:30:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,16,Arma de Fuego,Violencia instrumental
+2012,7,2012-07-30T07:30:00.000,lunes,8,Zona urbana,Espacio o Vía Pública,Masculino,31,Arma de Fuego,Violencia instrumental
+2012,7,2012-07-31T23:30:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma de Fuego,Violencia impulsiva o expresiva
+2012,8,2012-08-04T20:00:00.000,sábado,8,Zona urbana,Vivienda,Masculino,30,Arma de Fuego,Violencia instrumental
+2012,8,2012-08-12T20:30:00.000,domingo,6,Zona urbana,Bar o similares,Masculino,31,Arma de Fuego,Violencia impulsiva o expresiva
+2012,8,2012-08-16T23:00:00.000,jueves,6,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma Blanca,Violencia instrumental
+2012,8,2012-08-17T10:00:00.000,viernes,Fortalecillas,Zona Rural,Finca o Campo Abierto,Femenino,31,Arma de Fuego,Violencia impulsiva o expresiva
+2012,8,2012-08-17T10:00:00.000,viernes,Fortalecillas,Zona Rural,Finca o Campo Abierto,Femenino,48,Arma de Fuego,Violencia impulsiva o expresiva
+2012,8,2012-08-19T23:30:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia impulsiva o expresiva
+2012,8,2012-08-19T02:51:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma de Fuego,Violencia instrumental
+2012,9,2012-09-02T18:42:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Violencia impulsiva o expresiva
+2012,9,2012-09-03T00:26:00.000,lunes,6,Zona urbana,Espacio o Vía Pública,Masculino,44,Arma de Fuego,Violencia instrumental
+2012,9,2012-09-08T21:00:00.000,sábado,9,Zona urbana,Espacio o Vía Pública,Masculino,44,Arma de Fuego,Violencia impulsiva o expresiva
+2012,9,2012-09-12T21:30:00.000,miércoles,2,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia impulsiva o expresiva
+2012,9,2012-09-15T06:00:00.000,sábado,San Luis,Zona Rural,Espacio o Vía Pública,Masculino,27,Arma de Fuego,Violencia impulsiva o expresiva
+2012,9,2012-09-20T23:30:00.000,jueves,8,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia impulsiva o expresiva
+2012,9,2012-09-24T13:00:00.000,lunes,7,Zona urbana,Vivienda,Masculino,43,Arma de Fuego,Violencia impulsiva o expresiva
+2012,10,2012-10-03T15:30:00.000,miércoles,Fortalecillas,Zona Rural,Rio / Laguna,Masculino,17,Arma de Fuego,Violencia impulsiva o expresiva
+2012,10,2012-10-03T15:30:00.000,miércoles,Fortalecillas,Zona Rural,Rio / Laguna,Masculino,22,Arma de Fuego,Violencia impulsiva o expresiva
+2012,10,2012-10-03T15:30:00.000,miércoles,Fortalecillas,Zona Rural,Rio / Laguna,Masculino,22,Arma de Fuego,Violencia impulsiva o expresiva
+2012,10,2012-10-07T04:50:00.000,domingo,1,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2012,10,2012-10-10T20:00:00.000,miércoles,8,Zona urbana,Espacio o Vía Pública,Femenino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2012,10,2012-10-12T08:00:00.000,viernes,1,Zona urbana,Rio / Laguna,Masculino,27,Arma de Fuego,Violencia impulsiva o expresiva
+2012,10,2012-10-13T21:00:00.000,sábado,Ninguna,Zona urbana,Lugar de Trabajo,Femenino,51,Arma Blanca,Violencia impulsiva o expresiva
+2012,10,2012-10-14T00:50:00.000,domingo,4,Zona urbana,Espacio o Vía Pública,Masculino,36,Arma de Fuego,Violencia impulsiva o expresiva
+2012,10,2012-10-20T23:00:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma Blanca,Violencia impulsiva o expresiva
+2012,10,2012-10-28T03:00:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,50,Arma de Fuego,Violencia impulsiva o expresiva
+2012,10,2012-10-31T22:37:00.000,miércoles,4,Zona urbana,Espacio o Vía Pública,Masculino,44,Arma de Fuego,Violencia impulsiva o expresiva
+2012,11,2012-11-01T19:30:00.000,jueves,8,Zona urbana,Vivienda,Femenino,12,Arma de Fuego,Violencia impulsiva o expresiva
+2012,11,2012-11-01T22:00:00.000,jueves,9,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia impulsiva o expresiva
+2012,11,2012-11-02T23:00:00.000,viernes,7,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma de Fuego,Violencia impulsiva o expresiva
+2012,11,2012-11-02T23:00:00.000,viernes,7,Zona urbana,Espacio o Vía Pública,Masculino,40,Arma de Fuego,Violencia impulsiva o expresiva
+2012,11,2012-11-05T02:10:00.000,lunes,4,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma Blanca,Violencia impulsiva o expresiva
+2012,11,2012-11-17T08:10:00.000,sábado,1,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma Blanca,Violencia impulsiva o expresiva
+2012,11,2012-11-18T04:00:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2012,11,2012-11-22T06:45:00.000,jueves,8,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia instrumental
+2012,11,2012-11-25T00:30:00.000,domingo,7,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma de Fuego,Violencia impulsiva o expresiva
+2012,11,2012-11-25T20:00:00.000,domingo,1,Zona urbana,Espacio o Vía Pública,Masculino,54,Arma de Fuego,Violencia impulsiva o expresiva
+2012,11,2012-11-27T19:15:00.000,martes,3,Zona urbana,Vivienda,Masculino,29,Arma de Fuego,Violencia impulsiva o expresiva
+2012,12,2012-12-01T18:30:00.000,sábado,8,Zona urbana,Espacio o Vía Pública,Masculino,16,Arma de Fuego,Violencia impulsiva o expresiva
+2012,12,2012-12-05T00:10:00.000,miércoles,9,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma de Fuego,Violencia impulsiva o expresiva
+2012,12,2012-12-08T19:38:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma de Fuego,Violencia impulsiva o expresiva
+2012,12,2012-12-11T06:30:00.000,martes,4,Zona urbana,Otro Lugar,Masculino,42,Arma de Fuego,Violencia instrumental
+2012,12,2012-12-12T21:00:00.000,miércoles,6,Zona urbana,Espacio o Vía Pública,Masculino,31,Arma de Fuego,Violencia impulsiva o expresiva
+2012,12,2012-12-13T05:00:00.000,jueves,4,Zona urbana,Espacio o Vía Pública,Masculino,38,Arma de Fuego,Violencia impulsiva o expresiva
+2012,12,2012-12-18T23:00:00.000,martes,9,Zona urbana,Espacio o Vía Pública,Masculino,16,Arma de Fuego,Violencia impulsiva o expresiva
+2012,12,2012-12-21T14:20:00.000,viernes,8,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma de Fuego,Violencia instrumental
+2012,12,2012-12-21T07:00:00.000,viernes,9,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia impulsiva o expresiva
+2012,12,2012-12-21T20:30:00.000,viernes,6,Zona urbana,Lugar de Trabajo,Masculino,38,Arma de Fuego,Violencia instrumental
+2012,12,2012-12-21T04:00:00.000,viernes,9,Zona urbana,Vivienda,Masculino,45,Arma de Fuego,Violencia impulsiva o expresiva
+2012,12,2012-12-23T18:50:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia impulsiva o expresiva
+2012,12,2012-12-23T20:30:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia impulsiva o expresiva
+2012,12,2012-12-25T17:00:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,16,Arma de Fuego,Violencia impulsiva o expresiva
+2012,12,2012-12-27T14:15:00.000,jueves,3,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia impulsiva o expresiva
+2012,12,2012-12-27T20:20:00.000,jueves,7,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma de Fuego,Violencia impulsiva o expresiva
+2012,12,2012-12-28T13:45:00.000,viernes,9,Zona urbana,Rio / Laguna,Masculino,62,Arma de Fuego,Violencia instrumental
+2013,1,2013-01-01T10:00:00.000,martes,8,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia impulsiva o expresiva
+2013,1,2013-01-03T20:30:00.000,jueves,6,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia impulsiva o expresiva
+2013,1,2013-01-05T19:00:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,36,Arma de Fuego,Violencia impulsiva o expresiva
+2013,1,2013-01-06T19:00:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,15,Arma de Fuego,Violencia impulsiva o expresiva
+2013,1,2013-01-07T19:20:00.000,lunes,6,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma de Fuego,Violencia impulsiva o expresiva
+2013,1,2013-01-07T19:05:00.000,lunes,6,Zona urbana,Espacio o Vía Pública,Masculino,47,Arma de Fuego,Violencia impulsiva o expresiva
+2013,1,2013-01-08T07:00:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma de Fuego,Violencia impulsiva o expresiva
+2013,1,2013-01-11T15:30:00.000,viernes,6,Zona urbana,Vivienda,Masculino,17,Arma de Fuego,Violencia impulsiva o expresiva
+2013,1,2013-01-11T23:50:00.000,viernes,9,Zona urbana,Vivienda,Masculino,43,Arma de Fuego,Violencia instrumental
+2013,1,2013-01-15T00:00:01.000,martes,2,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2013,1,2013-01-18T09:15:00.000,viernes,8,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma de Fuego,Violencia instrumental
+2013,1,2013-01-18T23:00:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Masculino,54,Arma de Fuego,Violencia impulsiva o expresiva
+2013,1,2013-01-18T14:45:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Femenino,73,Arma de Fuego,Violencia impulsiva o expresiva
+2013,1,2013-01-19T00:50:00.000,sábado,4,Zona urbana,Bar o similares,Masculino,45,Arma de Fuego,Violencia impulsiva o expresiva
+2013,1,2013-01-24T01:00:00.000,jueves,8,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia instrumental
+2013,1,2013-01-25T20:25:00.000,viernes,8,Zona urbana,Espacio o Vía Pública,Masculino,57,Arma de Fuego,Violencia impulsiva o expresiva
+2013,1,2013-01-26T23:55:00.000,sábado,3,Zona urbana,Bar o similares,Masculino,42,Arma Blanca,Violencia impulsiva o expresiva
+2013,1,2013-01-27T19:00:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2013,1,2013-01-29T21:20:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,27,Arma de Fuego,Violencia impulsiva o expresiva
+2013,1,2013-01-30T22:30:00.000,miércoles,6,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma de Fuego,Violencia impulsiva o expresiva
+2013,2,2013-02-03T06:30:00.000,domingo,Guacirco,Zona Rural,Vivienda,Masculino,37,Arma de Fuego,Violencia impulsiva o expresiva
+2013,2,2013-02-05T19:10:00.000,martes,9,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Violencia impulsiva o expresiva
+2013,2,2013-02-09T18:50:00.000,sábado,El Caguán,Zona urbana,Espacio o Vía Pública,Masculino,33,Arma de Fuego,Violencia impulsiva o expresiva
+2013,2,2013-02-12T20:15:00.000,martes,5,Zona urbana,Espacio o Vía Pública,Masculino,43,Arma de Fuego,Violencia impulsiva o expresiva
+2013,2,2013-02-16T03:30:00.000,sábado,9,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia instrumental
+2013,2,2013-02-17T19:15:00.000,domingo,1,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2013,2,2013-02-23T21:10:00.000,sábado,9,Zona urbana,Espacio o Vía Pública,Masculino,44,Arma de Fuego,Violencia impulsiva o expresiva
+2013,2,2013-02-24T13:00:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,20,Arma de Fuego,Violencia impulsiva o expresiva
+2013,3,2013-03-10T02:30:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma de Fuego,Violencia impulsiva o expresiva
+2013,3,2013-03-15T00:30:00.000,viernes,9,Zona urbana,Vivienda,Masculino,38,Arma de Fuego,Violencia impulsiva o expresiva
+2013,3,2013-03-16T22:05:00.000,sábado,9,Zona urbana,Vivienda,Masculino,25,Arma de Fuego,Violencia instrumental
+2013,3,2013-03-19T21:30:00.000,martes,10,Zona urbana,Espacio o Vía Pública,Masculino,13,Arma Blanca,Violencia impulsiva o expresiva
+2013,3,2013-03-21T19:43:00.000,jueves,1,Zona urbana,Espacio o Vía Pública,Masculino,58,Arma de Fuego,Violencia instrumental
+2013,3,2013-03-23T11:30:00.000,sábado,El Caguán,Zona urbana,Rio / Laguna,Masculino,47,Arma Blanca,Violencia impulsiva o expresiva
+2013,3,2013-03-24T14:05:00.000,domingo,3,Zona urbana,Espacio o Vía Pública,Masculino,34,Arma Blanca,Violencia impulsiva o expresiva
+2013,3,2013-03-27T00:00:01.000,miércoles,2,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma Blanca,Violencia impulsiva o expresiva
+2013,4,2013-04-05T21:45:00.000,viernes,9,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma de Fuego,Violencia impulsiva o expresiva
+2013,4,2013-04-11T13:30:00.000,jueves,7,Zona urbana,Espacio o Vía Pública,Masculino,16,Arma de Fuego,Violencia impulsiva o expresiva
+2013,4,2013-04-18T20:30:00.000,jueves,6,Zona urbana,Espacio o Vía Pública,Masculino,31,Arma de Fuego,Violencia impulsiva o expresiva
+2013,4,2013-04-20T20:10:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,35,Arma de Fuego,Violencia instrumental
+2013,4,2013-04-22T11:15:00.000,lunes,6,Zona urbana,Lugar de Trabajo,Masculino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2013,4,2013-04-23T20:16:00.000,martes,4,Zona urbana,Espacio o Vía Pública,Masculino,43,Arma Blanca,Violencia impulsiva o expresiva
+2013,4,2013-04-29T04:20:00.000,lunes,6,Zona urbana,Espacio o Vía Pública,Masculino,36,Arma de Fuego,Violencia instrumental
+2013,5,2013-05-04T20:30:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia instrumental
+2013,5,2013-05-05T05:30:00.000,domingo,7,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia instrumental
+2013,5,2013-05-10T19:10:00.000,viernes,2,Zona urbana,Espacio o Vía Pública,Femenino,45,Arma de Fuego,Violencia instrumental
+2013,5,2013-05-12T01:30:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,37,Arma de Fuego,Violencia impulsiva o expresiva
+2013,5,2013-05-16T16:54:00.000,jueves,9,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia impulsiva o expresiva
+2013,5,2013-05-16T12:49:00.000,jueves,7,Zona urbana,Espacio o Vía Pública,Masculino,36,Armade Fuego,Violencia instrumental
+2013,5,2013-05-19T06:45:00.000,domingo,4,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2013,5,2013-05-23T10:35:00.000,jueves,Aipecito,Zona Rural,Finca o Campo Abierto,Masculino,27,Arma de Fuego,Violencia instrumental
+2013,5,2013-05-25T22:10:00.000,sábado,9,Zona urbana,Espacio o Vía Pública,Masculino,16,Arma de Fuego,Violencia impulsiva o expresiva
+2013,5,2013-05-26T04:00:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,37,Arma Blanca,Violencia impulsiva o expresiva
+2013,5,2013-05-30T10:28:00.000,jueves,5,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma de Fuego,Violencia impulsiva o expresiva
+2013,5,2013-05-30T10:28:00.000,jueves,5,Zona urbana,Espacio o Vía Pública,Masculino,73,Arma de Fuego,Violencia impulsiva o expresiva
+2013,6,2013-06-05T22:10:00.000,miércoles,1,Zona urbana,Vivienda,Masculino,40,Arma Blanca,Violencia impulsiva o expresiva
+2013,6,2013-06-06T12:20:00.000,jueves,8,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma de Fuego,Violencia impulsiva o expresiva
+2013,6,2013-06-08T22:40:00.000,sábado,8,Zona urbana,Espacio o Vía Pública,Masculino,41,Arma Blanca,Violencia impulsiva o expresiva
+2013,6,2013-06-10T01:00:00.000,lunes,10,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma de Fuego,Violencia impulsiva o expresiva
+2013,6,2013-06-16T18:30:00.000,domingo,7,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma de Fuego,Violencia impulsiva o expresiva
+2013,6,2013-06-24T01:00:00.000,lunes,7,Zona urbana,Espacio o Vía Pública,Masculino,33,Arma Blanca,Violencia impulsiva o expresiva
+2013,6,2013-06-27T12:15:00.000,jueves,2,Zona urbana,Espacio o Vía Pública,Masculino,58,Arma de Fuego,Violencia instrumental
+2013,6,2013-06-28T22:00:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Masculino,35,Arma de Fuego,Violencia impulsiva o expresiva
+2013,6,2013-06-29T20:10:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,31,Arma de Fuego,Violencia instrumental
+2013,6,2013-06-29T19:33:00.000,sábado,10,Zona urbana,Espacio o Vía Pública,Masculino,46,Arma Blanca,Violencia impulsiva o expresiva
+2013,7,2013-07-01T01:40:00.000,lunes,4,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia impulsiva o expresiva
+2013,7,2013-07-07T03:00:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Violencia impulsiva o expresiva
+2013,7,2013-07-08T02:10:00.000,lunes,7,Zona urbana,Espacio o Vía Pública,Masculino,35,Arma de Fuego,Violencia impulsiva o expresiva
+2013,7,2013-07-14T08:00:00.000,domingo,El Caguán,Zona Rural,Finca o Campo Abierto,Masculino,25,Arma Blanca,Violencia instrumental
+2013,7,2013-07-16T21:00:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma de Fuego,Violencia impulsiva o expresiva
+2013,7,2013-07-16T22:00:00.000,martes,4,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma de Fuego,Violencia impulsiva o expresiva
+2013,7,2013-07-18T13:15:00.000,jueves,4,Zona urbana,Espacio o Vía Pública,Masculino,35,Arma Blanca,Violencia impulsiva o expresiva
+2013,7,2013-07-21T01:00:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Femenino,40,Arma Blanca,Violencia impulsiva o expresiva
+2013,7,2013-07-26T01:30:00.000,viernes,10,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma Blanca,Violencia impulsiva o expresiva
+2013,7,2013-07-31T15:30:00.000,miércoles,6,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma Blanca,Violencia impulsiva o expresiva
+2013,8,2013-08-04T05:30:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,41,Arma de Fuego,Violencia instrumental
+2013,8,2013-08-05T14:15:00.000,lunes,6,Zona urbana,Vivienda,Masculino,29,Arma de Fuego,Violencia impulsiva o expresiva
+2013,8,2013-08-07T19:25:00.000,miércoles,8,Zona urbana,Espacio o Vía Pública,Masculino,20,Arma de Fuego,Violencia impulsiva o expresiva
+2013,8,2013-08-11T06:50:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,25,Otra arma,Violencia impulsiva o expresiva
+2013,8,2013-08-15T12:00:00.000,jueves,4,Zona urbana,Espacio o Vía Pública,Masculino,44,Arma Contundente,Violencia impulsiva o expresiva
+2013,8,2013-08-17T00:00:00.000,sábado,10,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia impulsiva o expresiva
+2013,8,2013-08-22T23:00:00.000,jueves,6,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia impulsiva o expresiva
+2013,8,2013-08-31T23:20:00.000,sábado,4,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2013,8,2013-08-31T03:25:00.000,sábado,4,Zona urbana,Vivienda,Masculino,43,Arma Contundente,Violencia impulsiva o expresiva
+2013,9,2013-09-05T12:45:00.000,jueves,6,Zona urbana,Espacio o Vía Pública,Masculino,35,Arma de Fuego,Violencia impulsiva o expresiva
+2013,9,2013-09-12T06:07:00.000,jueves,8,Zona urbana,Vivienda,Masculino,76,Arma de Fuego,Violencia instrumental
+2013,9,2013-09-16T09:48:00.000,lunes,4,Zona urbana,Otro Lugar,Masculino,74,Arma de Fuego,Violencia instrumental
+2013,9,2013-09-20T22:30:00.000,viernes,8,Zona urbana,Espacio o Vía Pública,Masculino,16,Arma de Fuego,Violencia impulsiva o expresiva
+2013,9,2013-09-22T18:12:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,42,Arma de Fuego,Violencia impulsiva o expresiva
+2013,9,2013-09-27T15:00:00.000,viernes,Aipecito,Zona Rural,Finca o Campo Abierto,Masculino,55,Arma de Fuego,Violencia impulsiva o expresiva
+2013,9,2013-09-28T11:45:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2013,10,2013-10-06T00:20:00.000,domingo,5,Zona urbana,Espacio o Vía Pública,Masculino,47,Arma de Fuego,Violencia instrumental
+2013,10,2013-10-06T21:35:00.000,domingo,6,Zona urbana,Vivienda,Masculino,60,Arma de Fuego,Violencia impulsiva o expresiva
+2013,10,2013-10-07T11:00:00.000,lunes,8,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia impulsiva o expresiva
+2013,10,2013-10-22T15:30:00.000,martes,9,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma Blanca,Violencia impulsiva o expresiva
+2013,10,2013-10-27T06:15:00.000,domingo,1,Zona urbana,Vivienda,Masculino,20,Arma de Fuego,Violencia impulsiva o expresiva
+2013,11,2013-11-03T00:20:00.000,domingo,7,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia instrumental
+2013,11,2013-11-05T20:00:00.000,martes,2,Zona urbana,Espacio o Vía Pública,Masculino,33,Arma de Fuego,Violencia impulsiva o expresiva
+2013,11,2013-11-07T15:00:00.000,jueves,6,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia impulsiva o expresiva
+2013,11,2013-11-09T18:10:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Violencia impulsiva o expresiva
+2013,11,2013-11-10T05:00:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia impulsiva o expresiva
+2013,12,2013-12-03T08:15:00.000,martes,8,Zona urbana,Espacio o Vía Pública,Masculino,27,Arma de Fuego,Violencia impulsiva o expresiva
+2013,12,2013-12-09T14:20:00.000,lunes,5,Zona urbana,Vivienda,Masculino,49,Arma Blanca,Violencia impulsiva o expresiva
+2013,12,2013-12-15T07:49:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,31,Arma Blanca,Violencia impulsiva o expresiva
+2013,12,2013-12-19T05:00:00.000,jueves,8,Zona urbana,Espacio o Vía Pública,Masculino,49,Arma Blanca,Violencia impulsiva o expresiva
+2013,12,2013-12-25T19:30:00.000,miércoles,6,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma de Fuego,Violencia impulsiva o expresiva
+2013,12,2013-12-25T03:05:00.000,miércoles,9,Zona urbana,Espacio o Vía Pública,Masculino,66,Arma Blanca,Violencia impulsiva o expresiva
+2013,12,2013-12-29T23:10:00.000,domingo,6,Zona urbana,Vivienda,Femenino,29,Arma de Fuego,Violencia impulsiva o expresiva
+2013,12,2013-12-31T22:45:00.000,martes,9,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia instrumental
+2013,12,2013-12-31T16:05:00.000,martes,9,Zona urbana,Espacio o Vía Pública,Masculino,20,Arma de Fuego,Violencia impulsiva o expresiva
+2014,1,2014-01-04T18:00:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,20,Arma de Fuego,Violencia impulsiva o expresiva
+2014,1,2014-01-15T20:40:00.000,miércoles,6,Zona urbana,Vivienda,Masculino,18,Arma de Fuego,Violencia instrumental
+2014,1,2014-01-19T12:30:00.000,domingo,7,Zona urbana,Espacio o Vía Pública,Masculino,40,Arma de Fuego,Violencia impulsiva o expresiva
+2014,1,2014-01-22T06:55:00.000,miércoles,8,Zona urbana,Espacio o Vía Pública,Masculino,20,Arma Blanca,Violencia impulsiva o expresiva
+2014,1,2014-01-23T20:15:00.000,jueves,8,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma de Fuego,Violencia instrumental
+2014,1,2014-01-27T23:55:00.000,lunes,6,Zona urbana,Otro Lugar,Masculino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2014,2,2014-02-01T23:55:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma de Fuego,Violencia impulsiva o expresiva
+2014,2,2014-02-05T23:59:00.000,miércoles,Rio de la Ceibas,Zona Rural,Finca o Campo Abierto,Masculino,41,Arma de Fuego,Violencia instrumental
+2014,2,2014-02-09T04:10:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,35,Arma Blanca,Violencia impulsiva o expresiva
+2014,2,2014-02-12T21:40:00.000,miércoles,6,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2014,2,2014-02-16T23:00:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,31,Arma de Fuego,Violencia instrumental
+2014,2,2014-02-23T03:00:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,27,Arma de Fuego,Violencia impulsiva o expresiva
+2014,3,2014-03-20T07:30:00.000,jueves,7,Zona urbana,Vivienda,Femenino,27,Otra arma,Violencia impulsiva o expresiva
+2014,3,2014-03-22T01:00:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia impulsiva o expresiva
+2014,3,2014-03-24T20:10:00.000,lunes,9,Zona urbana,Espacio o Vía Pública,Masculino,27,Arma de Fuego,Violencia impulsiva o expresiva
+2014,3,2014-03-28T22:15:00.000,viernes,Fortalecillas,Zona Rural,Finca o Campo Abierto,Masculino,36,Arma Blanca,Desconocido / Por Establecer
+2014,4,2014-04-20T03:20:00.000,domingo,Fortalecillas,Zona Rural,Espacio o Vía Pública,Masculino,32,Arma Blanca,Violencia impulsiva o expresiva
+2014,4,2014-04-20T04:00:00.000,domingo,Aipecito,Zona Rural,Espacio o Vía Pública,Masculino,33,Arma Blanca,Violencia impulsiva o expresiva
+2014,4,2014-04-21T17:00:00.000,lunes,San Luis,Zona Rural,Espacio o Vía Pública,Masculino,45,Arma de Fuego,Violencia instrumental
+2014,4,2014-04-27T22:00:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma de Fuego,Violencia impulsiva o expresiva
+2014,4,2014-04-27T11:30:00.000,domingo,3,Zona urbana,Vivienda,Masculino,52,Arma de Fuego,Violencia instrumental
+2014,4,2014-04-27T16:30:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,56,Arma Blanca,Violencia impulsiva o expresiva
+2014,5,2014-05-03T11:20:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,20,Arma de Fuego,Violencia instrumental
+2014,5,2014-05-06T07:00:00.000,martes,1,Zona urbana,Vivienda,Masculino,26,Arma de Fuego,Violencia impulsiva o expresiva
+2014,5,2014-05-20T22:46:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,62,Arma de Fuego,Violencia instrumental
+2014,5,2014-05-27T06:15:00.000,martes,7,Zona urbana,Vivienda,Masculino,44,Arma de Fuego,Violencia instrumental
+2014,6,2014-06-05T11:00:00.000,jueves,Aipecito,Zona Rural,Rio / Laguna,Masculino,25,Arma de Fuego,Desconocido / Por Establecer
+2014,6,2014-06-05T00:00:11.000,jueves,Aipecito,Zona Rural,Rio / Laguna,Masculino,30,Arma de Fuego,Desconocido / Por Establecer
+2014,6,2014-06-15T16:30:00.000,domingo,Vegalarga,Zona Rural,Finca o Campo Abierto,Masculino,2,Arma Blanca,Violencia impulsiva o expresiva
+2014,6,2014-06-15T16:30:00.000,domingo,Vegalarga,Zona Rural,Finca o Campo Abierto,Femenino,7,Arma Blanca,Violencia impulsiva o expresiva
+2014,6,2014-06-21T23:30:00.000,sábado,4,Zona urbana,Espacio o Vía Pública,Masculino,20,Arma Blanca,Violencia impulsiva o expresiva
+2014,6,2014-06-21T16:10:00.000,sábado,2,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma Blanca,Violencia impulsiva o expresiva
+2014,6,2014-06-23T03:00:00.000,lunes,8,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia impulsiva o expresiva
+2014,7,2014-07-25T00:55:00.000,viernes,10,Zona urbana,Espacio o Vía Pública,Femenino,39,Arma Blanca,Violencia impulsiva o expresiva
+2014,7,2014-07-30T19:20:00.000,miércoles,4,Zona urbana,Espacio o Vía Pública,Masculino,43,Arma de Fuego,Violencia instrumental
+2014,8,2014-08-03T00:40:00.000,domingo,7,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma Blanca,Violencia impulsiva o expresiva
+2014,8,2014-08-11T20:34:00.000,lunes,9,Zona urbana,Espacio o Vía Pública,Masculino,36,Arma de Fuego,Violencia instrumental
+2014,8,2014-08-20T16:00:00.000,miércoles,Fortalecillas,Zona Rural,Rio / Laguna,Masculino,42,Arma Blanca,Violencia impulsiva o expresiva
+2014,8,2014-08-30T11:10:00.000,sábado,1,Zona urbana,Bar o similares,Masculino,35,Arma de Fuego,Violencia instrumental
+2014,9,2014-09-05T05:40:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Femenino,31,Arma Contundente,Violencia impulsiva o expresiva
+2014,9,2014-09-09T19:50:00.000,martes,8,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia impulsiva o expresiva
+2014,9,2014-09-14T21:30:00.000,domingo,5,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia instrumental
+2014,9,2014-09-21T00:30:00.000,domingo,4,Zona urbana,Otro Lugar,Masculino,23,Arma Blanca,Violencia impulsiva o expresiva
+2014,9,2014-09-24T20:14:00.000,miércoles,6,Zona urbana,Espacio o Vía Pública,Masculino,34,Arma de Fuego,Violencia instrumental
+2014,9,2014-09-27T00:00:00.000,sábado,8,Zona urbana,Rio / Laguna,Masculino,23,Arma de Fuego,Violencia instrumental
+2014,9,2014-09-28T08:30:00.000,domingo,3,Zona urbana,Espacio o Vía Pública,Masculino,31,Arma Blanca,Violencia impulsiva o expresiva
+2014,10,2014-10-02T22:19:00.000,jueves,8,Zona urbana,Espacio o Vía Pública,Masculino,45,Arma de Fuego,Violencia instrumental
+2014,10,2014-10-14T01:20:00.000,martes,2,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia impulsiva o expresiva
+2014,10,2014-10-17T20:50:00.000,viernes,7,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia instrumental
+2014,10,2014-10-26T21:40:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,57,Arma Blanca,Violencia impulsiva o expresiva
+2014,10,2014-10-31T18:00:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Femenino,16,Arma Contundente,Violencia impulsiva o expresiva
+2014,11,2014-11-01T20:30:00.000,sábado,8,Zona urbana,Espacio o Vía Pública,Masculino,31,Arma de Fuego,Violencia impulsiva o expresiva
+2014,11,2014-11-02T21:00:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma Blanca,Violencia impulsiva o expresiva
+2014,11,2014-11-16T00:30:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma Blanca,Violencia impulsiva o expresiva
+2014,11,2014-11-22T11:40:00.000,sábado,9,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma de Fuego,Violencia impulsiva o expresiva
+2014,12,2014-12-01T23:50:00.000,lunes,6,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma Blanca,Violencia impulsiva o expresiva
+2014,12,2014-12-09T01:54:00.000,martes,1,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma Blanca,Violencia impulsiva o expresiva
+2014,12,2014-12-15T17:25:00.000,lunes,8,Zona urbana,Espacio o Vía Pública,Masculino,45,Arma Blanca,Violencia impulsiva o expresiva
+2014,12,2014-12-16T22:35:00.000,martes,6,Zona urbana,Vivienda,Masculino,46,Arma de Fuego,Violencia instrumental
+2014,12,2014-12-21T19:00:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Desconocido / Por Establecer
+2014,12,2014-12-23T21:10:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma de Fuego,Violencia instrumental
+2014,12,2014-12-26T08:46:00.000,viernes,4,Zona urbana,Rio / Laguna,Masculino,35,Arma Blanca,Violencia impulsiva o expresiva
+2014,12,2014-12-28T12:22:00.000,domingo,10,Zona urbana,Vivienda,Masculino,3,Arma de Fuego,Violencia impulsiva o expresiva
+2014,12,2014-12-30T14:15:00.000,martes,Fortalecillas,Zona Rural,Espacio o Vía Pública,Masculino,30,Arma Blanca,Violencia impulsiva o expresiva
+2014,12,2014-12-31T23:00:00.000,miércoles,10,Zona urbana,Vivienda,Femenino,31,Arma de Fuego,Violencia impulsiva o expresiva
+2015,1,2015-01-09T00:21:30.000,viernes,8,Zona urbana,Espacio o Vía Pública,Masculino,39,Arma de Fuego,Desconocido / Por Establecer
+2015,1,2015-01-21T00:00:51.000,miércoles,8,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Desconocido / Por Establecer
+2015,1,2015-01-31T00:10:30.000,sábado,10,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma Blanca,Desconocido / Por Establecer
+2015,2,2015-02-01T00:13:21.000,domingo,2,Zona urbana,Espacio o Vía Pública,Masculino,47,Arma de Fuego,Desconocido / Por Establecer
+2015,2,2015-02-02T00:09:00.000,lunes,2,Zona urbana,Vivienda,Femenino,39,Arma de Fuego,Violencia impulsiva o expresiva
+2015,2,2015-02-05T00:20:00.000,jueves,6,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma de Fuego,Desconocido / Por Establecer
+2015,2,2015-02-06T00:18:40.000,viernes,4,Zona urbana,Espacio o Vía Pública,Masculino,65,Arma Contundente,Desconocido / Por Establecer
+2015,2,2015-02-06T00:22:45.000,viernes,6,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma Blanca,Violencia impulsiva o expresiva
+2015,2,2015-02-10T00:21:00.000,martes,8,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Desconocido / Por Establecer
+2015,2,2015-02-14T00:16:30.000,sábado,9,Zona urbana,Espacio o Vía Pública,Masculino,31,Arma de Fuego,Desconocido / Por Establecer
+2015,2,2015-02-18T00:23:50.000,miércoles,9,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma de Fuego,Desconocido / Por Establecer
+2015,2,2015-02-25T00:00:45.000,miércoles,8,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Desconocido / Por Establecer
+2015,2,2015-02-28T00:15:40.000,sábado,8,Zona urbana,Espacio o Vía Pública,Masculino,37,Arma de Fuego,Desconocido / Por Establecer
+2015,3,2015-03-01T00:03:19.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma Blanca,Violencia impulsiva o expresiva
+2015,3,2015-03-01T00:00:00.000,domingo,4,Zona urbana,Espacio o Vía Pública,Masculino,65,Arma Contundente,Desconocido / Por Establecer
+2015,3,2015-03-09T19:30:00.000,lunes,8,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Desconocido / Por Establecer
+2015,3,2015-03-09T20:45:00.000,lunes,5,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Desconocido / Por Establecer
+2015,3,2015-03-12T08:00:00.000,jueves,Aipecito,Zona Rural,Finca o Campo Abierto,Masculino,33,Arma de Fuego,Violencia instrumental
+2015,3,2015-03-12T08:00:00.000,jueves,Aipecito,Zona Rural,Finca o Campo Abierto,Masculino,35,Arma de Fuego,Violencia instrumental
+2015,3,2015-03-12T08:00:00.000,jueves,Aipecito,Zona Rural,Finca o Campo Abierto,Masculino,45,Arma de Fuego,Violencia instrumental
+2015,3,2015-03-14T23:00:00.000,sábado,8,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia impulsiva o expresiva
+2015,3,2015-03-14T21:45:00.000,sábado,9,Zona urbana,Espacio o Vía Pública,Masculino,44,Arma de Fuego,Violencia impulsiva o expresiva
+2015,3,2015-03-22T18:30:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,14,Arma de Fuego,Desconocido / Por Establecer
+2015,3,2015-03-27T15:00:00.000,viernes,8,Zona urbana,Otro Lugar,Masculino,16,Arma de Fuego,Desconocido / Por Establecer
+2015,4,2015-04-05T21:00:00.000,domingo,3,Zona urbana,Espacio o Vía Pública,Masculino,50,Arma de Fuego,Desconocido / Por Establecer
+2015,4,2015-04-12T23:00:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma de Fuego,Violencia impulsiva o expresiva
+2015,4,2015-04-20T13:00:00.000,lunes,6,Zona urbana,Espacio o Vía Pública,Masculino,35,Estrangulación /Asfixia,Desconocido / Por Establecer
+2015,4,2015-04-26T01:30:00.000,domingo,3,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2015,5,2015-05-16T10:00:00.000,sábado,4,Zona urbana,Bar o similares,Femenino,41,Arma Blanca,Violencia impulsiva o expresiva
+2015,5,2015-05-23T21:00:00.000,sábado,8,Zona urbana,Vivienda,Masculino,10,Arma Contundente,Violencia impulsiva o expresiva
+2015,5,2015-05-24T18:30:00.000,domingo,Vegalarga,Zona Rural,Espacio o Vía Pública,Masculino,15,Arma Blanca,Violencia impulsiva o expresiva
+2015,5,2015-05-24T17:00:00.000,domingo,El Caguán,Zona Rural,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2015,5,2015-05-28T02:13:00.000,jueves,9,Zona urbana,Vivienda,Masculino,4,Envenenamiento,Violencia impulsiva o expresiva
+2015,5,2015-05-29T21:30:00.000,viernes,Chapinero,Zona Rural,Espacio o Vía Pública,Masculino,31,Arma de Fuego,Violencia instrumental
+2015,5,2015-05-30T06:05:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,62,Arma de Fuego,Violencia instrumental
+2015,5,2015-05-31T00:17:00.000,domingo,6,Zona urbana,Bar o similares,Masculino,46,Arma Blanca,Violencia impulsiva o expresiva
+2015,6,2015-06-06T07:00:00.000,sábado,Aipecito,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia instrumental
+2015,6,2015-06-07T01:25:00.000,domingo,2,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma Blanca,Violencia impulsiva o expresiva
+2015,6,2015-06-15T21:00:00.000,lunes,4,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma Blanca,Violencia impulsiva o expresiva
+2015,6,2015-06-16T20:30:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Femenino,54,Arma de Fuego,Violencia impulsiva o expresiva
+2015,6,2015-06-22T18:35:00.000,lunes,9,Zona urbana,Espacio o Vía Pública,Masculino,58,Arma Blanca,Violencia impulsiva o expresiva
+2015,7,2015-07-05T21:30:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Desconocido / Por Establecer
+2015,7,2015-07-09T16:00:00.000,jueves,8,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma Blanca,Violencia instrumental
+2015,7,2015-07-13T12:50:00.000,lunes,9,Zona urbana,Vivienda,Masculino,36,Arma Blanca,Violencia impulsiva o expresiva
+2015,8,2015-08-09T05:30:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,27,Arma Blanca,Violencia impulsiva o expresiva
+2015,8,2015-08-14T20:30:00.000,viernes,1,Zona urbana,Otro Lugar,Masculino,20,Arma de Fuego,Violencia instrumental
+2015,8,2015-08-27T12:00:00.000,jueves,6,Zona urbana,Vivienda,Masculino,24,Arma de Fuego,Violencia instrumental
+2015,9,2015-09-20T17:40:00.000,domingo,1,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma Blanca,Violencia impulsiva o expresiva
+2015,9,2015-09-25T17:50:00.000,viernes,10,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma Contundente,Violencia impulsiva o expresiva
+2015,9,2015-09-26T19:10:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia instrumental
+2015,9,2015-09-29T20:20:00.000,martes,4,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma de Fuego,Desconocido / Por Establecer
+2015,10,2015-10-05T10:00:00.000,lunes,7,Zona urbana,Espacio o Vía Pública,Femenino,23,Arma de Fuego,Violencia instrumental
+2015,10,2015-10-10T20:30:00.000,sábado,9,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma Blanca,Violencia impulsiva o expresiva
+2015,10,2015-10-27T06:45:00.000,martes,7,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia instrumental
+2015,11,2015-11-02T06:00:00.000,lunes,8,Zona urbana,Espacio o Vía Pública,Masculino,14,Arma Blanca,Violencia impulsiva o expresiva
+2015,11,2015-11-27T02:15:00.000,viernes,8,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma de Fuego,Violencia instrumental
+2015,11,2015-11-29T00:40:00.000,domingo,8,Zona urbana,Vivienda,Femenino,20,Arma de Fuego,Violencia impulsiva o expresiva
+2015,12,2015-12-11T22:40:00.000,viernes,10,Zona urbana,Espacio o Vía Pública,Femenino,41,Arma Blanca,Violencia instrumental
+2015,12,2015-12-11T14:00:00.000,viernes,2,Zona urbana,Vivienda,Masculino,59,Arma de Fuego,Violencia impulsiva o expresiva
+2015,12,2015-12-13T13:00:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma de Fuego,Violencia instrumental
+2015,12,2015-12-19T20:50:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia instrumental
+2015,12,2015-12-25T19:30:00.000,viernes,4,Zona urbana,Espacio o Vía Pública,Masculino,0,Arma Blanca,Violencia impulsiva o expresiva
+2015,12,2015-12-28T20:40:00.000,lunes,6,Zona urbana,Espacio o Vía Pública,Masculino,16,Arma de Fuego,Violencia instrumental
+2016,1,2016-01-03T11:35:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma Blanca,Violencia impulsiva o expresiva
+2016,1,2016-01-06T19:00:00.000,miércoles,Guacirco,Zona urbana,Finca o Campo Abierto,Masculino,61,Arma de Fuego,Violencia instrumental
+2016,1,2016-01-15T00:01:00.000,viernes,8,Zona urbana,Finca o Campo Abierto,Masculino,26,Arma Blanca,Desconocido / Por Establecer
+2016,1,2016-01-16T17:30:00.000,sábado,10,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma de Fuego,Violencia impulsiva o expresiva
+2016,1,2016-01-16T22:30:00.000,sábado,8,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma de Fuego,Desconocido / Por Establecer
+2016,1,2016-01-21T21:30:00.000,jueves,2,Zona urbana,Casa,Femenino,53,Arma Blanca,Desconocido / Por Establecer
+2016,1,2016-01-24T03:30:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Violencia impulsiva o expresiva
+2016,1,2016-01-24T10:55:00.000,domingo,9,Zona urbana,Casa,Masculino,39,Arma Blanca,Violencia impulsiva o expresiva
+2016,1,2016-01-25T13:20:00.000,lunes,6,Zona urbana,Bar o similares,Masculino,36,Arma Blanca,Violencia impulsiva o expresiva
+2016,1,2016-01-28T01:00:00.000,jueves,6,Zona urbana,Espacio o Vía Pública,Masculino,34,Arma Blanca,Desconocido / Por Establecer
+2016,1,2016-01-31T00:30:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma de Fuego,Desconocido / Por Establecer
+2016,2,2016-02-02T01:20:00.000,martes,8,Zona urbana,Casa,Masculino,26,Explosivos,Violencia instrumental
+2016,2,2016-02-09T20:30:00.000,martes,10,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma de Fuego,Violencia instrumental
+2016,2,2016-02-11T19:30:00.000,jueves,El Caguán,Zona Rural,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia impulsiva o expresiva
+2016,2,2016-02-14T03:00:00.000,domingo,10,Zona urbana,Casa,Masculino,27,Estrangulación /Asfixia,Desconocido / Por Establecer
+2016,2,2016-02-15T13:30:00.000,lunes,6,Zona urbana,Lugar de Trabajo,Masculino,52,Arma Blanca,Violencia impulsiva o expresiva
+2016,2,2016-02-21T19:25:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma de Fuego,Violencia instrumental
+2016,2,2016-02-21T19:25:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,38,Arma de Fuego,Violencia instrumental
+2016,3,2016-03-05T18:45:00.000,sábado,9,Zona urbana,Espacio o Vía Pública,Masculino,55,Arma Blanca,Violencia impulsiva o expresiva
+2016,3,2016-03-14T20:00:00.000,lunes,6,Zona urbana,Espacio o Vía Pública,Masculino,27,Arma de Fuego,Violencia impulsiva o expresiva
+2016,3,2016-03-21T20:10:00.000,lunes,9,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia impulsiva o expresiva
+2016,3,2016-03-31T18:30:00.000,jueves,El Caguán,Zona Rural,Espacio o Vía Pública,Masculino,17,Arma Blanca,Violencia impulsiva o expresiva
+2016,4,2016-04-10T01:40:00.000,domingo,El Caguán,Zona Rural,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Desconocido / Por Establecer
+2016,5,2016-05-19T18:25:00.000,jueves,7,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Desconocido / Por Establecer
+2016,5,2016-05-20T14:30:00.000,viernes,8,Zona urbana,Rio / Laguna,Masculino,42,Arma de Fuego,Desconocido / Por Establecer
+2016,5,2016-05-20T19:45:00.000,viernes,8,Zona urbana,Espacio o Vía Pública,Masculino,33,Arma de Fuego,Violencia impulsiva o expresiva
+2016,5,2016-05-22T12:10:00.000,domingo,Fortalecillas,Zona Rural,Espacio o Vía Pública,Masculino,29,Arma Blanca,Violencia impulsiva o expresiva
+2016,5,2016-05-22T22:00:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma de Fuego,Desconocido / Por Establecer
+2016,5,2016-05-22T21:40:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma Blanca,Violencia impulsiva o expresiva
+2016,5,2016-05-30T12:20:00.000,lunes,San Luis,Zona Rural,Casa,Masculino,22,Arma Blanca,Violencia impulsiva o expresiva
+2016,6,2016-06-01T05:15:00.000,miércoles,8,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma de Fuego,Violencia impulsiva o expresiva
+2016,6,2016-06-04T17:30:00.000,sábado,El Caguán,Zona Rural,Espacio o Vía Pública,Masculino,57,Arma de Fuego,Desconocido / Por Establecer
+2016,6,2016-06-29T15:20:00.000,miércoles,4,Zona urbana,Casa,Femenino,49,Arma Blanca,Violencia impulsiva o expresiva
+2016,7,2016-07-06T21:50:00.000,miércoles,5,Zona urbana,Casa,Masculino,92,Arma Contundente,Violencia impulsiva o expresiva
+2016,7,2016-07-13T00:00:00.000,miércoles,6,Zona Rural,Finca o Campo Abierto,Masculino,25,Arma de Fuego,Desconocido / Por Establecer
+2016,7,2016-07-14T09:20:00.000,jueves,3,Zona urbana,Otro Lugar,Masculino,27,Arma de Fuego,Violencia impulsiva o expresiva
+2016,7,2016-07-29T14:00:00.000,viernes,El Caguán,Zona Rural,Espacio o Vía Pública,Masculino,29,Arma de Fuego,Violencia instrumental
+2016,8,2016-08-23T11:15:00.000,martes,8,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia impulsiva o expresiva
+2016,9,2016-09-03T09:00:00.000,sábado,4,Zona urbana,Espacio o Vía Pública,Femenino,32,Arma de Fuego,Violencia impulsiva o expresiva
+2016,9,2016-09-03T11:20:00.000,sábado,4,Zona urbana,Espacio o Vía Pública,Masculino,39,Arma de Fuego,Violencia impulsiva o expresiva
+2016,9,2016-09-15T00:32:00.000,jueves,6,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma Blanca,Violencia impulsiva o expresiva
+2016,9,2016-09-17T03:00:00.000,sábado,9,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma Blanca,Violencia impulsiva o expresiva
+2016,9,2016-09-24T00:15:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2016,9,2016-09-27T00:00:00.000,martes,Rio de la Ceibas,Zona Rural,Finca o Campo Abierto,Masculino,46,Arma de Fuego,Violencia impulsiva o expresiva
+2016,9,2016-09-29T11:20:00.000,jueves,8,Zona urbana,Finca o Campo Abierto,Masculino,42,Arma Contundente,Desconocido / Por Establecer
+2016,10,2016-10-01T11:45:00.000,sábado,3,Zona urbana,Espacio o Vía Pública,Masculino,44,Arma Blanca,Violencia impulsiva o expresiva
+2016,10,2016-10-15T18:45:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,51,Arma Blanca,Violencia impulsiva o expresiva
+2016,10,2016-10-15T13:00:00.000,sábado,9,Zona urbana,Espacio o Vía Pública,Masculino,44,Arma de Fuego,Violencia impulsiva o expresiva
+2016,10,2016-10-19T17:30:00.000,miércoles,4,Zona urbana,Casa,Masculino,46,Arma Blanca,Violencia impulsiva o expresiva
+2016,10,2016-10-25T19:40:00.000,martes,6,Zona urbana,Finca o Campo Abierto,Masculino,53,Arma Blanca,Desconocido / Por Establecer
+2016,10,2016-10-28T20:00:00.000,viernes,8,Zona urbana,Espacio o Vía Pública,Masculino,63,Arma de Fuego,Desconocido / Por Establecer
+2016,11,2016-11-18T12:30:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Femenino,36,Arma de Fuego,Violencia instrumental
+2016,11,2016-11-18T10:30:00.000,viernes,8,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Desconocido / Por Establecer
+2016,11,2016-11-27T21:30:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Desconocido / Por Establecer
+2016,12,2016-12-03T01:50:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2016,12,2016-12-03T16:00:00.000,sábado,Vegalarga,Zona Rural,Finca o Campo Abierto,Femenino,18,Arma Blanca,Violencia impulsiva o expresiva
+2016,12,2016-12-11T22:30:00.000,domingo,7,Zona urbana,Casa,Masculino,54,Arma Blanca,Violencia impulsiva o expresiva
+2016,12,2016-12-11T16:20:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,38,Arma de Fuego,Violencia impulsiva o expresiva
+2016,12,2016-12-14T20:00:00.000,miércoles,3,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia impulsiva o expresiva
+2016,12,2016-12-31T14:40:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Violencia impulsiva o expresiva
+2017,1,2017-01-01T06:30:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,38,Arma Blanca,Violencia impulsiva o expresiva
+2017,1,2017-01-25T22:30:00.000,miércoles,4,Zona urbana,Espacio o Vía Pública,Femenino,34,Arma de Fuego,Violencia impulsiva o expresiva
+2017,2,2017-02-11T20:40:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,13,Arma de Fuego,Violencia impulsiva o expresiva
+2017,2,2017-02-14T00:30:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma Blanca,Violencia impulsiva o expresiva
+2017,2,2017-02-17T05:10:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma Blanca,Violencia instrumental
+2017,2,2017-02-17T11:50:00.000,viernes,8,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2017,2,2017-02-17T11:50:00.000,viernes,8,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia impulsiva o expresiva
+2017,2,2017-02-18T18:10:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma de Fuego,Violencia impulsiva o expresiva
+2017,2,2017-02-18T22:40:00.000,sábado,10,Zona urbana,Espacio o Vía Pública,Masculino,60,Arma Contundente,Violencia impulsiva o expresiva
+2017,2,2017-02-20T18:40:00.000,lunes,8,Zona urbana,Espacio o Vía Pública,Masculino,16,Arma Blanca,Violencia impulsiva o expresiva
+2017,2,2017-02-26T00:30:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia impulsiva o expresiva
+2017,2,2017-02-27T01:00:00.000,lunes,8,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma Blanca,Violencia impulsiva o expresiva
+2017,3,2017-03-07T15:15:00.000,martes,9,Zona urbana,Casa,Masculino,55,Arma de Fuego,Violencia impulsiva o expresiva
+2017,3,2017-03-19T16:00:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,85,Arma de Fuego,Violencia impulsiva o expresiva
+2017,3,2017-03-23T17:00:00.000,jueves,7,Zona urbana,Espacio o Vía Pública,Masculino,62,Arma de Fuego,Violencia impulsiva o expresiva
+2017,3,2017-03-27T15:00:00.000,lunes,9,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia impulsiva o expresiva
+2017,4,2017-04-02T03:00:00.000,domingo,1,Zona urbana,Espacio o Vía Pública,Masculino,20,Arma Blanca,Violencia instrumental
+2017,4,2017-04-02T08:05:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma Blanca,Violencia impulsiva o expresiva
+2017,4,2017-04-06T20:50:00.000,jueves,10,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia impulsiva o expresiva
+2017,4,2017-04-09T16:15:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia instrumental
+2017,4,2017-04-09T12:30:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma Blanca,Violencia impulsiva o expresiva
+2017,4,2017-04-09T20:00:00.000,domingo,4,Zona urbana,Espacio o Vía Pública,Masculino,33,Arma Blanca,Violencia impulsiva o expresiva
+2017,4,2017-04-10T01:00:00.000,lunes,6,Zona urbana,Espacio o Vía Pública,Masculino,27,Arma Blanca,Violencia impulsiva o expresiva
+2017,4,2017-04-11T11:15:00.000,martes,6,Zona urbana,Casa,Masculino,17,Arma de Fuego,Violencia instrumental
+2017,4,2017-04-16T02:00:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma de Fuego,Violencia impulsiva o expresiva
+2017,4,2017-04-23T18:00:00.000,domingo,10,Zona urbana,Rio / Laguna,Masculino,23,Arma de Fuego,Violencia impulsiva o expresiva
+2017,4,2017-04-29T02:20:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,67,Arma Blanca,Violencia instrumental
+2017,4,2017-04-30T18:30:00.000,domingo,10,Zona urbana,Bar o similares,Masculino,40,Arma Blanca,Violencia impulsiva o expresiva
+2017,5,2017-05-05T23:42:00.000,viernes,4,Zona urbana,Espacio o Vía Pública,Femenino,24,Arma de Fuego,Violencia impulsiva o expresiva
+2017,5,2017-05-12T21:00:00.000,viernes,8,Zona urbana,Casa,Masculino,44,Arma Blanca,Violencia impulsiva o expresiva
+2017,5,2017-05-18T17:50:00.000,jueves,Vegalarga,Zona Rural,Espacio o Vía Pública,Masculino,37,Arma de Fuego,Violencia instrumental
+2017,5,2017-05-21T08:40:00.000,domingo,4,Zona urbana,Espacio o Vía Pública,Masculino,20,Arma Blanca,Violencia impulsiva o expresiva
+2017,5,2017-05-22T00:05:00.000,lunes,6,Zona urbana,Casa,Masculino,14,Arma Blanca,Violencia impulsiva o expresiva
+2017,5,2017-05-25T22:20:00.000,jueves,1,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma de Fuego,Violencia impulsiva o expresiva
+2017,5,2017-05-28T22:45:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia instrumental
+2017,6,2017-06-02T15:30:00.000,viernes,8,Zona urbana,Rio / Laguna,Masculino,20,Arma de Fuego,Violencia impulsiva o expresiva
+2017,6,2017-06-03T23:00:00.000,sábado,3,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia impulsiva o expresiva
+2017,6,2017-06-03T21:50:00.000,sábado,San Luis,Zona Rural,Casa,Masculino,49,Arma Blanca,Violencia impulsiva o expresiva
+2017,6,2017-06-11T04:30:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma Blanca,Violencia impulsiva o expresiva
+2017,6,2017-06-11T11:30:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Femenino,39,Arma de Fuego,Violencia impulsiva o expresiva
+2017,6,2017-06-14T01:00:00.000,miércoles,6,Zona urbana,Casa,Femenino,3,Arma Blanca,Violencia impulsiva o expresiva
+2017,6,2017-06-14T01:00:00.000,miércoles,6,Zona urbana,Casa,Femenino,28,Arma Blanca,Violencia impulsiva o expresiva
+2017,6,2017-06-21T19:00:00.000,miércoles,8,Zona urbana,Espacio o Vía Pública,Masculino,35,Arma de Fuego,Violencia impulsiva o expresiva
+2017,6,2017-06-25T04:00:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,41,Arma Blanca,Violencia impulsiva o expresiva
+2017,6,2017-06-27T20:50:00.000,martes,8,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia impulsiva o expresiva
+2017,7,2017-07-04T05:00:00.000,martes,8,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia impulsiva o expresiva
+2017,7,2017-07-08T18:50:00.000,sábado,8,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia instrumental
+2017,7,2017-07-08T18:50:00.000,sábado,8,Zona urbana,Espacio o Vía Pública,Masculino,52,Arma de Fuego,Violencia instrumental
+2017,7,2017-07-16T03:20:00.000,domingo,6,Zona urbana,Casa,Masculino,41,Arma de Fuego,Violencia impulsiva o expresiva
+2017,7,2017-07-16T01:35:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia instrumental
+2017,7,2017-07-17T00:00:00.000,lunes,9,Zona urbana,Rio / Laguna,Masculino,32,Arma de Fuego,Desconocido / Por Establecer
+2017,7,2017-07-17T01:10:00.000,lunes,10,Zona urbana,Finca o Campo Abierto,Masculino,42,Arma de Fuego,Violencia impulsiva o expresiva
+2017,7,2017-07-28T21:05:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma de Fuego,Violencia impulsiva o expresiva
+2017,7,2017-07-28T21:05:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Masculino,50,Arma de Fuego,Violencia impulsiva o expresiva
+2017,8,2017-08-04T21:00:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Masculino,20,Arma de Fuego,Violencia instrumental
+2017,8,2017-08-05T22:00:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia instrumental
+2017,8,2017-08-08T22:50:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia instrumental
+2017,8,2017-08-08T22:50:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia instrumental
+2017,8,2017-08-19T19:30:00.000,sábado,10,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma de Fuego,Violencia instrumental
+2017,8,2017-08-22T20:00:00.000,martes,9,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia instrumental
+2017,8,2017-08-22T20:30:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Violencia impulsiva o expresiva
+2017,8,2017-08-25T20:50:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Masculino,33,Arma de Fuego,Violencia instrumental
+2017,8,2017-08-26T19:30:00.000,sábado,8,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma de Fuego,Violencia instrumental
+2017,9,2017-09-02T04:00:00.000,sábado,5,Zona urbana,Espacio o Vía Pública,Femenino,26,Arma Blanca,Violencia impulsiva o expresiva
+2017,9,2017-09-10T16:00:00.000,domingo,4,Zona urbana,Espacio o Vía Pública,Masculino,39,Arma Blanca,Violencia impulsiva o expresiva
+2017,9,2017-09-18T01:00:00.000,lunes,1,Zona urbana,Espacio o Vía Pública,Masculino,55,Arma Blanca,Violencia impulsiva o expresiva
+2017,9,2017-09-24T03:15:00.000,domingo,6,Zona urbana,Lugar de Trabajo,Masculino,61,Arma de Fuego,Violencia instrumental
+2017,10,2017-10-04T18:10:00.000,miércoles,8,Zona urbana,Casa,Masculino,15,Arma de Fuego,Violencia impulsiva o expresiva
+2017,10,2017-10-05T00:00:00.000,jueves,9,Zona urbana,Finca o Campo Abierto,Masculino,17,Arma de Fuego,Desconocido / Por Establecer
+2017,10,2017-10-11T15:50:00.000,miércoles,9,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2017,10,2017-10-18T19:30:00.000,miércoles,6,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma Contundente,Violencia impulsiva o expresiva
+2017,10,2017-10-31T20:00:00.000,martes,9,Zona urbana,Espacio o Vía Pública,Masculino,49,Arma de Fuego,Violencia impulsiva o expresiva
+2017,11,2017-11-02T12:30:00.000,jueves,1,Zona urbana,Espacio o Vía Pública,Masculino,45,Arma de Fuego,Violencia instrumental
+2017,11,2017-11-02T18:00:00.000,jueves,6,Zona urbana,Espacio o Vía Pública,Masculino,41,Arma de Fuego,Violencia instrumental
+2017,11,2017-11-05T09:00:00.000,domingo,1,Zona urbana,Casa,Masculino,23,Arma de Fuego,Violencia impulsiva o expresiva
+2017,11,2017-11-07T01:05:00.000,martes,4,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma Blanca,Violencia impulsiva o expresiva
+2017,11,2017-11-11T17:10:00.000,sábado,4,Zona urbana,Rio / Laguna,Masculino,84,Estrangulación /Asfixia,Desconocido / Por Establecer
+2017,11,2017-11-18T05:30:00.000,sábado,9,Zona urbana,Casa,Femenino,38,Estrangulación /Asfixia,Violencia impulsiva o expresiva
+2017,12,2017-12-17T01:00:00.000,domingo,6,Zona urbana,Finca o Campo Abierto,Masculino,23,Arma de Fuego,Violencia instrumental
+2017,12,2017-12-18T22:15:00.000,lunes,9,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma de Fuego,Violencia impulsiva o expresiva
+2017,12,2017-12-20T19:45:00.000,miércoles,3,Zona urbana,Espacio o Vía Pública,Masculino,20,Arma de Fuego,Violencia impulsiva o expresiva
+2017,12,2017-12-23T03:30:00.000,sábado,9,Zona urbana,Espacio o Vía Pública,Masculino,31,Arma de Fuego,Violencia impulsiva o expresiva
+2017,12,2017-12-26T06:30:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma Contundente,Violencia impulsiva o expresiva
+2018,1,2018-01-12T14:00:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Masculino,15,Arma de Fuego,Violencia impulsiva o expresiva
+2018,1,2018-01-19T00:00:00.000,viernes,8,Zona urbana,Casa,Masculino,36,Estrangulación /Asfixia,Desconocido / Por Establecer
+2018,1,2018-01-26T11:20:00.000,viernes,2,Zona urbana,Finca o Campo Abierto,Masculino,25,Arma de Fuego,Violencia impulsiva o expresiva
+2018,2,2018-02-04T00:00:00.000,domingo,6,Zona urbana,Rio / Laguna,Masculino,51,Arma de Fuego,Violencia impulsiva o expresiva
+2018,2,2018-02-10T20:20:00.000,sábado,8,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia impulsiva o expresiva
+2018,2,2018-02-10T18:00:00.000,sábado,6,Zona urbana,Bar o similares,Masculino,25,Arma Blanca,Violencia impulsiva o expresiva
+2018,2,2018-02-11T14:30:00.000,domingo,2,Zona urbana,Casa,Femenino,18,Estrangulación /Asfixia,Violencia impulsiva o expresiva (feminicidio)
+2018,2,2018-02-15T18:00:00.000,jueves,7,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma de Fuego,Violencia instrumental
+2018,3,2018-03-02T12:30:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma Blanca,Violencia impulsiva o expresiva
+2018,3,2018-03-07T11:35:00.000,miércoles,1,Zona urbana,Casa,Masculino,61,Arma Blanca,Violencia impulsiva o expresiva
+2018,3,2018-03-15T19:00:00.000,jueves,5,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2018,3,2018-03-18T08:40:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Femenino,25,Arma de Fuego,Violencia instrumental
+2018,3,2018-03-20T04:10:00.000,martes,10,Zona urbana,Espacio o Vía Pública,Masculino,38,Arma Blanca,Violencia impulsiva o expresiva
+2018,3,2018-03-25T00:40:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2018,4,2018-04-01T07:00:00.000,domingo,1,Zona urbana,Espacio o Vía Pública,Masculino,20,Arma Blanca,Violencia impulsiva o expresiva
+2018,4,2018-04-03T02:00:00.000,martes,10,Zona urbana,Espacio o Vía Pública,Masculino,53,Arma de Fuego,Violencia instrumental
+2018,4,2018-04-08T22:25:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma de Fuego,Violencia impulsiva o expresiva
+2018,4,2018-04-18T15:15:00.000,miércoles,3,Zona urbana,Espacio o Vía Pública,Masculino,27,Arma de Fuego,Violencia impulsiva o expresiva
+2018,4,2018-04-18T11:30:00.000,miércoles,9,Zona urbana,Espacio o Vía Pública,Masculino,54,Arma de Fuego,Violencia instrumental
+2018,4,2018-04-24T00:00:00.000,martes,Fortalecillas,Zona Rural,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia instrumental
+2018,5,2018-05-03T23:10:00.000,jueves,10,Zona urbana,Espacio o Vía Pública,Masculino,20,Arma de Fuego,Violencia impulsiva o expresiva
+2018,5,2018-05-06T00:11:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Femenino,33,Arma de Fuego,Violencia impulsiva o expresiva
+2018,5,2018-05-06T00:11:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Violencia impulsiva o expresiva
+2018,5,2018-05-10T20:30:00.000,jueves,8,Zona urbana,Espacio o Vía Pública,Masculino,50,Arma Blanca,Violencia impulsiva o expresiva
+2018,5,2018-05-13T06:00:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2018,5,2018-05-14T03:00:00.000,lunes,Aipecito,Zona Rural,Espacio o Vía Pública,Masculino,16,Arma Blanca,Violencia impulsiva o expresiva
+2018,5,2018-05-19T22:30:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia impulsiva o expresiva
+2018,5,2018-05-20T16:30:00.000,domingo,Chapinero,Zona Rural,Espacio o Vía Pública,Masculino,26,Arma Blanca,Violencia impulsiva o expresiva
+2018,5,2018-05-31T18:00:00.000,jueves,6,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia instrumental
+2018,6,2018-06-03T03:00:00.000,domingo,3,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma Blanca,Violencia impulsiva o expresiva
+2018,6,2018-06-03T01:00:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma Blanca,Violencia impulsiva o expresiva
+2018,6,2018-06-06T23:30:00.000,miércoles,San Luis,Zona Rural,Espacio o Vía Pública,Masculino,48,Arma de Fuego,Violencia impulsiva o expresiva
+2018,6,2018-06-08T19:00:00.000,viernes,10,Zona urbana,Espacio o Vía Pública,Masculino,27,Arma Blanca,Violencia instrumental
+2018,6,2018-06-10T19:00:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia impulsiva o expresiva
+2018,6,2018-06-16T20:20:00.000,sábado,8,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2018,6,2018-06-22T20:30:00.000,viernes,4,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma Blanca,Violencia impulsiva o expresiva
+2018,6,2018-06-24T11:30:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia impulsiva o expresiva
+2018,6,2018-06-24T20:20:00.000,domingo,1,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma Blanca,Violencia impulsiva o expresiva
+2018,6,2018-06-26T20:00:00.000,martes,6,Zona urbana,Otro Lugar,Masculino,54,Arma de Fuego,Violencia instrumental
+2018,6,2018-06-26T20:35:00.000,martes,2,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma de Fuego,Violencia impulsiva o expresiva
+2018,6,2018-06-30T14:30:00.000,sábado,9,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma Blanca,Violencia impulsiva o expresiva
+2018,7,2018-07-01T21:30:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma de Fuego,Violencia impulsiva o expresiva
+2018,7,2018-07-01T21:30:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,41,Arma de Fuego,Violencia impulsiva o expresiva
+2018,7,2018-07-01T15:00:00.000,domingo,4,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma Blanca,Violencia impulsiva o expresiva
+2018,7,2018-07-09T01:30:00.000,lunes,2,Zona urbana,Espacio o Vía Pública,Masculino,35,Arma Blanca,Violencia impulsiva o expresiva
+2018,7,2018-07-10T14:00:00.000,martes,6,Zona urbana,Finca o Campo Abierto,Masculino,44,Arma de Fuego,Violencia impulsiva o expresiva
+2018,7,2018-07-12T21:30:00.000,jueves,10,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma de Fuego,Violencia impulsiva o expresiva
+2018,7,2018-07-17T13:40:00.000,martes,9,Zona urbana,Finca o Campo Abierto,Masculino,19,Arma Blanca,Violencia impulsiva o expresiva
+2018,7,2018-07-17T05:28:00.000,martes,9,Zona urbana,Espacio o Vía Pública,Masculino,74,Arma Blanca,Violencia instrumental
+2018,7,2018-07-19T00:05:00.000,jueves,6,Zona urbana,Casa,Femenino,50,Explosivos,Violencia impulsiva o expresiva
+2018,7,2018-07-20T19:30:00.000,viernes,8,Zona urbana,Espacio o Vía Pública,Masculino,33,Arma Blanca,Violencia impulsiva o expresiva
+2018,7,2018-07-22T00:10:00.000,domingo,6,Zona urbana,Casa,Femenino,26,Arma Blanca,Violencia impulsiva o expresiva
+2018,7,2018-07-24T18:30:00.000,martes,6,Zona urbana,Casa,Masculino,18,Arma de Fuego,Violencia impulsiva o expresiva
+2018,8,2018-08-08T20:20:00.000,miércoles,8,Zona urbana,Espacio o Vía Pública,Masculino,36,Arma de Fuego,Violencia impulsiva o expresiva
+2018,8,2018-08-08T19:00:00.000,miércoles,4,Zona urbana,Casa,Masculino,24,Estrangulación /Asfixia,Violencia impulsiva o expresiva
+2018,8,2018-08-11T21:45:00.000,sábado,2,Zona urbana,Casa,Masculino,54,Arma Blanca,Violencia impulsiva o expresiva
+2018,8,2018-08-13T05:26:00.000,lunes,6,Zona urbana,Espacio o Vía Pública,Masculino,49,Arma Blanca,Violencia impulsiva o expresiva
+2018,8,2018-08-14T22:10:00.000,martes,10,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma de Fuego,Violencia instrumental
+2018,8,2018-08-16T12:20:00.000,jueves,6,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma Contundente,Violencia impulsiva o expresiva
+2018,8,2018-08-19T17:30:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,31,Arma de Fuego,Violencia impulsiva o expresiva
+2018,8,2018-08-26T02:00:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia impulsiva o expresiva
+2018,8,2018-08-27T02:00:00.000,lunes,5,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Violencia instrumental
+2018,8,2018-08-31T21:20:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma de Fuego,Violencia impulsiva o expresiva
+2018,9,2018-09-08T07:10:00.000,sábado,6,Zona urbana,Casa,Masculino,5,Arma Contundente,Violencia impulsiva o expresiva
+2018,9,2018-09-08T23:30:00.000,sábado,10,Zona urbana,Casa,Masculino,31,Arma de Fuego,Violencia instrumental
+2018,9,2018-09-09T21:00:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Violencia instrumental
+2018,9,2018-09-10T19:05:00.000,lunes,10,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia instrumental
+2018,9,2018-09-30T17:35:00.000,domingo,7,Zona urbana,Espacio o Vía Pública,Masculino,27,Arma de Fuego,Violencia impulsiva o expresiva
+2018,10,2018-10-09T03:40:00.000,martes,8,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2018,10,2018-10-26T10:30:00.000,viernes,Rio de la Ceibas,Zona Rural,Rio / Laguna,Masculino,18,Arma de Fuego,Violencia impulsiva o expresiva
+2018,11,2018-11-02T19:00:00.000,viernes,El Caguán,Zona Rural,Espacio o Vía Pública,Masculino,38,Arma de Fuego,Violencia instrumental
+2018,11,2018-11-09T23:10:00.000,viernes,El Caguán,Zona Rural,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia instrumental
+2018,11,2018-11-09T15:00:00.000,viernes,7,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia instrumental
+2018,11,2018-11-11T00:02:25.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,35,Arma de Fuego,Violencia instrumental
+2018,11,2018-11-24T18:20:00.000,sábado,4,Zona urbana,Otro Lugar,Femenino,30,Arma Blanca,Violencia impulsiva o expresiva
+2018,11,2018-11-25T04:40:00.000,domingo,7,Zona urbana,Espacio o Vía Pública,Masculino,35,Arma Blanca,Violencia impulsiva o expresiva
+2018,11,2018-11-26T02:00:00.000,lunes,10,Zona urbana,Espacio o Vía Pública,Masculino,57,Arma Blanca,Violencia impulsiva o expresiva
+2018,12,2018-12-09T05:15:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,74,Arma Blanca,Violencia instrumental
+2018,12,2018-12-20T23:28:00.000,jueves,6,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma Blanca,Violencia impulsiva o expresiva
+2018,12,2018-12-23T15:45:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma de Fuego,Violencia instrumental
+2018,12,2018-12-23T22:20:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma de Fuego,Violencia instrumental
+2018,12,2018-12-29T19:20:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Femenino,48,Arma de Fuego,Violencia instrumental
+2018,12,2018-12-30T04:00:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma Blanca,Violencia impulsiva o expresiva
+2019,1,2019-01-01T01:30:00.000,martes,5,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2019,1,2019-01-01T21:20:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma Blanca,Violencia impulsiva o expresiva
+2019,1,2019-01-05T09:13:00.000,sábado,6,Zona urbana,Rio / Laguna,Femenino,18,Arma Blanca,Desconocido / Por Establecer
+2019,1,2019-01-13T20:00:00.000,domingo,2,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma de Fuego,Violencia instrumental
+2019,1,2019-01-21T08:00:00.000,lunes,6,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2019,2,2019-02-04T00:00:00.000,lunes,Fortalecillas,Zona Rural,Rio / Laguna,Masculino,35,Arma Contundente,Violencia impulsiva o expresiva
+2019,2,2019-02-09T00:50:00.000,sábado,10,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma de Fuego,Violencia instrumental
+2019,2,2019-02-09T00:20:00.000,sábado,6,Zona urbana,Casa,Femenino,29,Arma Blanca,Violencia impulsiva o expresiva
+2019,2,2019-02-16T01:00:00.000,sábado,10,Zona urbana,Rio / Laguna,Masculino,39,Arma Blanca,Violencia impulsiva o expresiva
+2019,2,2019-02-16T11:00:00.000,sábado,6,Zona urbana,Finca o Campo Abierto,Masculino,61,Arma Blanca,Violencia instrumental
+2019,2,2019-02-23T17:50:00.000,sábado,7,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia instrumental
+2019,3,2019-03-03T12:15:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,47,Arma Blanca,Violencia instrumental
+2019,3,2019-03-03T20:45:00.000,domingo,9,Zona urbana,Bar o similares,Masculino,48,Arma de Fuego,Violencia instrumental
+2019,3,2019-03-06T22:00:00.000,miércoles,4,Zona urbana,Espacio o Vía Pública,Masculino,65,Arma Blanca,Violencia impulsiva o expresiva
+2019,3,2019-03-09T05:00:00.000,sábado,2,Zona urbana,Espacio o Vía Pública,Masculino,32,Arma Blanca,Violencia impulsiva o expresiva
+2019,3,2019-03-11T20:00:00.000,lunes,10,Zona urbana,Espacio o Vía Pública,Femenino,16,Arma Blanca,Violencia impulsiva o expresiva
+2019,3,2019-03-12T07:30:00.000,martes,10,Zona urbana,Espacio o Vía Pública,Masculino,38,Arma de Fuego,Violencia instrumental
+2019,3,2019-03-16T11:30:00.000,sábado,8,Zona urbana,Casa,Masculino,14,Arma de Fuego,Violencia instrumental
+2019,4,2019-04-05T00:00:00.000,viernes,Rio de la Ceibas,Zona Rural,Finca o Campo Abierto,Masculino,20,Arma de Fuego,Violencia impulsiva o expresiva
+2019,4,2019-04-06T19:50:00.000,sábado,10,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia impulsiva o expresiva
+2019,4,2019-04-07T11:20:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Violencia instrumental
+2019,4,2019-04-07T23:10:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Violencia instrumental
+2019,4,2019-04-07T09:00:00.000,domingo,6,Zona urbana,Casa,Masculino,49,Arma Contundente,Violencia impulsiva o expresiva
+2019,4,2019-04-12T08:00:00.000,viernes,8,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma de Fuego,Violencia impulsiva o expresiva
+2019,4,2019-04-13T20:30:00.000,sábado,8,Zona urbana,Espacio o Vía Pública,Masculino,38,Arma de Fuego,Violencia instrumental
+2019,4,2019-04-16T01:00:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma Blanca,Violencia impulsiva o expresiva
+2019,4,2019-04-23T18:30:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma de Fuego,Violencia impulsiva o expresiva
+2019,4,2019-04-27T21:00:00.000,sábado,3,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma de Fuego,Violencia instrumental
+2019,4,2019-04-27T22:00:00.000,sábado,10,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia impulsiva o expresiva
+2019,5,2019-05-01T00:15:00.000,miércoles,10,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma de Fuego,Violencia impulsiva o expresiva
+2019,5,2019-05-07T21:30:00.000,martes,8,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma Blanca,Violencia impulsiva o expresiva
+2019,5,2019-05-10T20:00:00.000,viernes,2,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia impulsiva o expresiva
+2019,5,2019-05-12T04:40:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,34,Arma de Fuego,Violencia impulsiva o expresiva
+2019,5,2019-05-24T01:30:00.000,viernes,10,Zona urbana,Casa,Masculino,22,Arma de Fuego,Violencia impulsiva o expresiva
+2019,5,2019-05-24T14:59:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Masculino,31,Arma de Fuego,Violencia impulsiva o expresiva
+2019,6,2019-06-16T19:00:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia instrumental
+2019,6,2019-06-21T11:40:00.000,viernes,1,Zona urbana,Lugar de Trabajo,Masculino,31,Arma de Fuego,Violencia instrumental
+2019,6,2019-06-24T16:00:00.000,lunes,8,Zona urbana,Casa,Femenino,22,Arma Blanca,Violencia impulsiva o expresiva
+2019,6,2019-06-26T09:50:00.000,miércoles,8,Zona urbana,Espacio o Vía Pública,Masculino,37,Arma de Fuego,Violencia instrumental
+2019,6,2019-06-30T01:50:00.000,domingo,4,Zona urbana,Espacio o Vía Pública,Masculino,49,Arma Blanca,Violencia instrumental
+2019,7,2019-07-02T23:15:00.000,martes,8,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma de Fuego,Violencia instrumental
+2019,7,2019-07-03T00:00:00.000,miércoles,8,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia instrumental
+2019,7,2019-07-14T03:20:00.000,domingo,6,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia instrumental
+2019,8,2019-08-09T18:00:00.000,viernes,2,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia instrumental
+2019,8,2019-08-21T19:30:00.000,miércoles,5,Zona urbana,Espacio o Vía Pública,Masculino,46,Arma de Fuego,Violencia instrumental
+2019,8,2019-08-24T12:42:00.000,sábado,6,Zona urbana,Espacio o Vía Pública,Masculino,54,Arma de Fuego,Violencia instrumental
+2019,8,2019-08-31T21:45:00.000,sábado,9,Zona urbana,Espacio o Vía Pública,Masculino,54,Arma de Fuego,Violencia impulsiva o expresiva
+2019,9,2019-09-01T02:17:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Femenino,43,Arma Blanca,Violencia impulsiva o expresiva
+2019,9,2019-09-09T23:30:00.000,lunes,1,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia instrumental
+2019,9,2019-09-20T11:00:00.000,viernes,1,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Desconocido / Por Establecer
+2019,9,2019-09-26T19:10:00.000,jueves,10,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia instrumental
+2019,10,2019-10-05T12:30:00.000,sábado,2,Zona urbana,Casa,Masculino,55,Estrangulación /Asfixia,Desconocido / Por Establecer
+2019,10,2019-10-13T22:03:00.000,domingo,2,Zona urbana,Espacio o Vía Pública,Masculino,26,Arma Blanca,Violencia impulsiva o expresiva
+2019,11,2019-11-03T06:40:00.000,domingo,1,Zona urbana,Espacio o Vía Pública,Masculino,30,Arma Blanca,Violencia impulsiva o expresiva
+2019,11,2019-11-05T07:42:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma Blanca,Violencia impulsiva o expresiva
+2019,11,2019-11-14T00:01:00.000,jueves,9,Zona urbana,Casa,Masculino,19,Arma Blanca,Violencia impulsiva o expresiva
+2019,11,2019-11-19T18:30:00.000,martes,9,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma de Fuego,Violencia instrumental
+2019,12,2019-12-19T15:00:00.000,jueves,4,Zona urbana,Sin Dato,Masculino,36,Otra arma,Desconocido / Por Establecer
+2019,12,2019-12-01T02:30:00.000,domingo,10,Zona urbana,Bar o similares,Masculino,37,Arma de Fuego,Violencia instrumental
+2019,12,2019-12-08T15:20:00.000,domingo,10,Zona urbana,Bar o similares,Masculino,55,Arma de Fuego,Violencia impulsiva o expresiva
+2019,12,2019-12-09T19:30:00.000,lunes,6,Zona urbana,Espacio o Vía Pública,Masculino,56,Arma Blanca,Violencia impulsiva o expresiva
+2019,12,2019-12-10T08:30:00.000,martes,2,Zona urbana,Casa,Femenino,38,Estrangulación /Asfixia,Desconocido / Por Establecer
+2019,12,2019-12-13T23:00:00.000,viernes,10,Zona urbana,Casa,Femenino,25,Arma de Fuego,Desconocido / Por Establecer
+2019,12,2019-12-13T23:00:00.000,viernes,10,Zona urbana,Casa,Femenino,19,Arma de Fuego,Desconocido / Por Establecer
+2019,12,2019-12-16T12:15:00.000,lunes,6,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma Blanca,Violencia impulsiva o expresiva
+2019,12,2019-12-22T10:00:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,35,Arma Blanca,Violencia impulsiva o expresiva
+2019,12,2019-12-25T03:00:00.000,miércoles,8,Zona urbana,Espacio o Vía Pública,Masculino,28,Arma Blanca,Violencia impulsiva o expresiva
+2019,12,2019-12-29T21:50:00.000,domingo,5,Zona urbana,Espacio o Vía Pública,Masculino,34,Arma Blanca,Violencia impulsiva o expresiva
+2020,1,2020-01-18T21:50:00.000,sábado,4,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia instrumental
+2020,1,2020-01-18T20:40:00.000,sábado,7,Zona urbana,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia instrumental
+2020,1,2020-01-20T01:49:00.000,lunes,4,Zona urbana,Espacio o Vía Pública,Masculino,51,Arma de Fuego,Violencia instrumental
+2020,1,2020-01-28T20:40:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia instrumental
+2020,1,2020-01-22T01:00:00.000,miércoles,8,Zona urbana,Lugar de Trabajo,Masculino,59,Arma Blanca,Violencia impulsiva o expresiva
+2020,2,2020-02-02T20:00:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Femenino,65,Arma Contundente,Violencia impulsiva o expresiva
+2020,3,2020-03-22T21:20:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma de Fuego,Violencia impulsiva o expresiva
+2020,3,2020-03-15T04:00:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,38,Arma Blanca,Violencia impulsiva o expresiva
+2020,3,2020-03-11T19:00:00.000,miércoles,Aipecito,Zona Rural,Espacio o Vía Pública,Femenino,44,Arma de Fuego,Violencia impulsiva o expresiva
+2020,3,2020-03-08T04:10:00.000,domingo,4,Zona urbana,Espacio o Vía Pública,Masculino,44,Contudente,Violencia impulsiva o expresiva
+2020,3,2020-03-02T21:20:00.000,lunes,3,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Otro tipo de violencia
+2020,3,2020-03-31T21:20:00.000,martes,2,Zona urbana,Espacio o Vía Pública,Femenino,22,Contudente,Violencia impulsiva o expresiva (feminicidio)
+2020,4,2020-04-01T22:20:00.000,miércoles,3,Zona urbana,Casa,Masculino,32,Arma Blanca,Violencia impulsiva o expresiva
+2020,4,2020-04-21T22:55:00.000,martes,Fortalecillas,Zona Rural,Espacio o Vía Pública,Masculino,35,Arma de Fuego,Violencia impulsiva o expresiva
+2020,5,2020-05-07T16:00:00.000,jueves,6,Zona urbana,Otro Lugar,Masculino,25,Arma Blanca,Violencia impulsiva o expresiva
+2020,5,2020-05-10T23:10:00.000,domingo,6,Zona urbana,Vía pública,Masculino,17,Arma de Fuego,Violencia impulsiva o expresiva
+2020,5,2020-05-14T09:00:00.000,jueves,7,Zona urbana,Otro Lugar,Masculino,63,Arma Contundente,Violencia impulsiva o expresiva
+2020,5,2020-05-27T05:30:00.000,miércoles,Chapinero,Zona Rural,Finca o Campo Abierto,Masculino,41,Arma de Fuego,Violencia impulsiva o expresiva
+2020,6,2020-06-01T20:15:00.000,lunes,7,Zona urbana,Casa,Femenino,19,Arma Contundente,Violencia impulsiva o expresiva (feminicidio)
+2020,6,2020-06-03T16:00:00.000,miércoles,2,Zona urbana,Vía pública,Femenino,69,Arma de Fuego,Violencia impulsiva o expresiva
+2020,6,2020-06-03T19:20:00.000,miércoles,2,Zona urbana,Finca o Campo Abierto,Masculino,63,Arma de Fuego,Violencia impulsiva o expresiva
+2020,6,2020-06-14T09:00:00.000,domingo,9,Zona urbana,Vía pública,Masculino,24,Arma Blanca,Violencia impulsiva o expresiva
+2020,6,2020-06-17T15:15:00.000,miércoles,5,Zona urbana,Vía pública,Masculino,62,Arma de Fuego,Violencia impulsiva o expresiva
+2020,6,2020-06-18T20:16:00.000,jueves,8,Zona urbana,Vía pública,Masculino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2020,6,2020-06-20T05:55:00.000,sábado,2,Zona urbana,Vía pública,Masculino,22,Arma de Fuego,Violencia impulsiva o expresiva
+2020,6,2020-06-22T02:55:00.000,lunes,10,Zona urbana,Vía pública,Masculino,54,Arma de Fuego,Violencia impulsiva o expresiva
+2020,6,2020-06-26T17:30:00.000,viernes,3,Zona urbana,Vía pública,Femenino,71,Arma de Fuego,Violencia impulsiva o expresiva
+2020,6,2020-06-27T10:15:00.000,sábado,2,Zona urbana,Finca o Campo Abierto,Masculino,15,Arma de Fuego,Violencia impulsiva o expresiva
+2020,6,2020-06-28T21:00:00.000,domingo,6,Zona urbana,Vía pública,Masculino,33,Arma de Fuego,Violencia impulsiva o expresiva
+2020,7,2020-07-08T00:42:00.000,miércoles,10,Zona urbana,Vía pública,Masculino,25,Arma de Fuego,Violencia impulsiva o expresiva
+2020,7,2020-07-10T06:40:00.000,viernes,8,Zona urbana,Vía pública,Masculino,16,Arma de Fuego,Violencia impulsiva o expresiva
+2020,7,2020-07-17T04:00:00.000,viernes,8,Zona urbana,Casa,Masculino,46,Arma de Fuego,Violencia impulsiva o expresiva
+2020,7,2020-07-23T09:15:00.000,jueves,6,Zona urbana,Vía pública,Masculino,29,Arma Contundente,Violencia impulsiva o expresiva
+2020,7,2020-07-08T02:55:00.000,miércoles,10,Zona urbana,Vía pública,Masculino,25,Arma de Fuego,Violencia instrumental
+2020,7,2020-07-23T07:28:00.000,jueves,6,Zona urbana,Vía pública,Masculino,29,Arma Contundente,Violencia impulsiva o expresiva
+2020,7,2020-07-17T00:00:00.000,viernes,8,Zona urbana,Casa,Masculino,46,Arma de Fuego,Violencia impulsiva o expresiva
+2020,7,2020-07-10T18:30:00.000,viernes,8,Zona urbana,Vía pública,Masculino,16,Arma de Fuego,Desconocido / Por Establecerer
+2020,7,2020-07-26T19:30:00.000,domingo,8,Zona urbana,Vía pública,Masculino,56,Arma de Fuego,Violencia impulsiva o expresiva
+2020,8,2020-08-01T08:50:00.000,sábado,7,Zona urbana,Casa,Masculino,64,Arma contundente,Violencia impulsiva o expresiva
+2020,8,2020-08-03T02:00:00.000,lunes,2,Zona urbana,Finca o Campo Abierto,Masculino,36,Arma de Fuego,Violencia impulsiva o expresiva
+2020,8,2020-08-03T19:40:00.000,lunes,8,Zona urbana,Via pública,Masculino,43,Arma de Fuego,Violencia impulsiva o expresiva
+2020,8,2020-08-05T19:20:00.000,miércoles,10,Zona urbana,Via pública,Masculino,85,Arma de Fuego,Violencia impulsiva o expresiva
+2020,8,2020-08-07T11:11:00.000,viernes,8,Zona urbana,Vía pública,Masculino,36,Arma de Fuego,Violencia impulsiva o expresiva
+2020,8,2020-08-08T00:00:00.000,sábado,1,Zona urbana,Vía pública,Masculino,32,Arma de Fuego,Violencia instrumental
+2020,8,2020-08-09T05:20:00.000,domingo,7,Zona urbana,Otro Lugar,Masculino,51,Arma de Fuego,Violencia impulsiva o expresiva
+2020,8,2020-08-26T05:20:00.000,miércoles,6,Zona urbana,Vía pública,Masculino,25,Arma Blanca,Desconocido / Por Establecer
+2020,8,2020-08-27T02:30:00.000,jueves,2,Zona urbana,Casa,Masculino,49,Arma de Fuego,Violencia instrumental
+2020,8,2020-08-28T08:00:00.000,viernes,2,Zona urbana,Via pública,Masculino,63,Arma Contundente,Desconocido / Por Establecer
+2020,8,2020-08-28T19:30:00.000,viernes,2,Zona urbana,Vía pública,Masculino,42,Arma Contundente,Desconocido / Por Establecer
+2020,8,2020-08-30T23:18:00.000,domingo,10,Zona urbana,Vía pública,Masculino,37,Arma de Fuego,Violencia impulsiva o expresiva
+2020,8,2020-08-30T20:00:00.000,domingo,2,Zona urbana,Finca o Campo Abierto,Masculino,48,Arma Blanca,Por establecer
+2020,9,2020-09-02T22:30:00.000,miércoles,8,Zona urbana,Vía pública,Masculino,14,Arma de Fuego,Violencia impulsiva o expresiva
+2020,9,2020-09-05T23:38:00.000,sábado,2,Zona urbana,Vía pública,Masculino,20,Arma Blanca,Violencia impulsiva o expresiva
+2020,9,2020-09-15T12:55:00.000,martes,El Caguán,Zona rural,Finca o Campo Abierto,Masculino,20,Arma de Fuego,Desconocido / Por Establecer
+2020,9,2020-09-20T03:00:00.000,domingo,9,Zona urbana,Vía pública,Masculino,34,Arma de Fuego/Blanca,Violencia impulsiva o expresiva
+2020,9,2020-09-29T21:40:00.000,martes,4,Zona urbana,Vía pública,Masculino,27,Arma Blanca,Violencia impulsiva o expresiva
+2020,10,2020-10-01T00:30:00.000,jueves,4,Zona urbana,Vía pública,Masculino,62,Arma Contundente,Violencia impulsiva o expresiva
+2020,10,2020-10-04T11:00:00.000,domingo,6,Zona urbana,Vía pública,Masculino,25,Estrangulación /Asfixia,Desconocido / Por Establecer
+2020,10,2020-10-10T02:40:00.000,sábado,4,Zona urbana,Vía pública,Femenino,41,Arma de Fuego,Violencia instrumental
+2020,10,2020-10-12T04:45:00.000,lunes,2,Zona urbana,Vía pública,Masculino,29,Arma de Fuego,Violencia impulsiva o expresiva
+2020,10,2020-10-17T00:00:00.000,sábado,6,Zona urbana,Vía pública,Masculino,38,Arma de Fuego,Violencia impulsiva o expresiva
+2020,10,2020-10-19T11:00:00.000,lunes,1,Zona urbana,Vía pública,Masculino,26,Arma Blanca,Violencia impulsiva o expresiva
+2020,10,2020-10-20T19:00:00.000,martes,8,Zona urbana,Vía pública,Masculino,19,Arma Contundente,Violencia impulsiva o expresiva
+2020,10,2020-10-24T01:30:00.000,sábado,10,Zona urbana,Casa,Masculino,22,Arma Contundente,Violencia impulsiva o expresiva
+2020,11,2020-11-01T23:00:00.000,domingo,7,Zona urbana,Vía pública,Masculino,18,Arma de Fuego,Violencia impulsiva o expresiva
+2020,11,2020-11-05T22:50:00.000,jueves,3,Zona urbana,Vía pública,Masculino,47,Arma Contundente,Violencia impulsiva o expresiva
+2020,11,2020-11-12T21:35:00.000,jueves,10,Zona urbana,Casa,Masculino,20,Arma Contundente,Violencia impulsiva o expresiva
+2020,11,2020-11-14T18:15:00.000,sábado,Fortalecillas,Zona urbana,Bar o similares,Masculino,23,Arma Blanca,Violencia impulsiva o expresiva
+2020,11,2020-11-19T20:15:00.000,jueves,9,Zona urbana,Finca o Campo Abierto,Masculino,38,Arma blanca,Violencia impulsiva o expresiva
+2020,12,2020-12-03T19:35:00.000,jueves,3,Zona urbana,Espacio o Vía Pública,Masculino,34,Arma de fuego,Violencia instrumental
+2020,12,2020-12-06T19:40:00.000,domingo,8,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma de fuego,Violencia instrumental
+2020,12,2020-12-09T15:40:00.000,miércoles,6,Zona urbana,Lugar de Trabajo,Masculino,29,Arma de fuego,Violencia impulsiva o expresiva
+2020,12,2020-12-13T00:20:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,19,Arma Contundente,Violencia impulsiva o expresiva
+2020,12,2020-12-16T00:20:00.000,miércoles,8,Zona urbana,Casa,Masculino,18,Arma de fuego,Violencia instrumental
+2020,12,2020-12-18T00:20:00.000,viernes,3,Zona urbana,Casa,Masculino,60,Arma de fuego,Violencia instrumental
+2020,12,2020-12-23T16:30:00.000,miércoles,Chapinero,Zona Rural,Finca o Campo Abierto,Masculino,63,Arma de fuego,Desconocido / Por Establecer
+2020,12,2020-12-23T14:25:00.000,miércoles,Chapinero,Zona Rural,Finca o Campo Abierto,Masculino,30,Arma de fuego,Desconocido / Por Establecer
+2020,12,2020-12-23T10:40:00.000,miércoles,Chapinero,Zona Rural,Finca o Campo Abierto,Masculino,30,Arma de fuego,Desconocido / Por Establecer
+2020,12,2020-12-30T14:50:00.000,miércoles,Guacirco,Zona Rural,Finca o Campo Abierto,Masculino,54,Arma Contundente,Violencia impulsiva o expresiva
+2021,1,2021-01-01T09:30:00.000,viernes,6,Zona urbana,Espacio o Vía Pública,Masculino,46,Arma Contundente,Violencia impulsiva o expresiva
+2021,1,2021-01-05T22:00:00.000,martes,6,Zona urbana,Espacio o Vía Pública,Masculino,27,Arma de fuego,Desconocido / Por Establecer
+2021,1,2021-01-08T19:30:00.000,viernes,1,Zona urbana,Casa,Masculino,29,Arma Contundente,Violencia instrumental
+2021,1,2021-01-09T11:30:00.000,sábado,10,Zona urbana,Espacio o Vía Pública,Masculino,37,Arma de fuego,Violencia instrumental
+2021,1,2021-01-26T13:30:00.000,martes,8,Zona urbana,Espacio o Vía Pública,Masculino,27,Arma de fuego,Violencia instrumental
+2021,1,2021-01-30T14:10:00.000,sábado,1,Zona urbana,Casa,Masculino,61,Arma de fuego,Violencia instrumental
+2021,12,2021-12-02T10:30:00.000,jueves,10,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma de fuego,Violencia instrumental
+2021,2,2021-02-05T13:00:00.000,viernes,2,Zona urbana,Espacio o Vía Pública,Masculino,40,Arma de fuego,Desconocido / Por Establecer
+2021,2,2021-02-07T20:20:00.000,domingo,10,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de fuego,Violencia impulsiva o expresiva
+2021,2,2021-02-10T04:30:00.000,miércoles,6,Zona urbana,Espacio o Vía Pública,Femenino,25,Arma Contundente,Desconocido / Por Establecer
+2021,2,2021-02-15T10:30:00.000,lunes,6,Zona urbana,Espacio o Vía Pública,Masculino,21,Arma de fuego,Violencia instrumental
+2021,2,2021-02-20T00:48:00.000,sábado,1,Zona urbana,Casa,Masculino,57,Arma de fuego,Violencia instrumental
+2021,2,2021-02-28T02:45:00.000,domingo,3,Zona urbana,Espacio o Vía Pública,Masculino,57,Arma blanca,Violencia impulsiva o expresiva
+2021,3,2021-03-12T22:45:00.000,viernes,8,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma de fuego,Violencia instrumental
+2021,3,2021-03-22T05:10:00.000,lunes,4,Zona urbana,Espacio o Vía Pública,Masculino,27,Arma de fuego,Violencia instrumental (organismo de seguridad)
+2021,3,2021-03-28T22:45:00.000,domingo,9,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de fuego,Desconocido / Por Establecer
+2021,4,2021-04-10T02:20:00.000,sábado,9,Zona urbana,Espacio o Vía Pública,Masculino,17,Arma de fuego,Violencia instrumental
+2021,4,2021-04-11T16:00:00.000,domingo,Fortalecillas,Zona rural,Casa,Masculino,44,Arma de fuego,Violencia instrumental
+2021,4,2021-04-11T11:12:00.000,domingo,10,Zona urbana,Casa,Masculino,59,Arma de fuego,Violencia instrumental
+2021,4,2021-04-11T22:00:00.000,domingo,1,Zona urbana,Vía pública,Masculino,29,Arma de fuego,Violencia instrumental
+2021,4,2021-04-14T20:20:00.000,miércoles,8,Zona urbana,Vía pública,Masculino,21,Arma de fuego,Violencia instrumental
+2021,4,2021-04-15T03:10:00.000,jueves,3,Zona urbana,Vía pública,Masculino,80,Arma de fuego,Violencia impulsiva o expresiva
+2021,4,2021-04-18T03:10:00.000,domingo,8,Zona urbana,Vía pública,Masculino,23,Arma de fuego,Violencia instrumental
+2021,4,2021-04-19T22:30:00.000,lunes,3,Zona urbana,Vía pública,Masculino,35,Arma blanca,Violencia impulsiva o expresiva
+2021,4,2021-04-20T05:05:00.000,martes,10,Zona urbana,Vía pública,Masculino,35,Arma de fuego,Violencia instrumental
+2021,4,2021-04-20T12:30:00.000,martes,10,Zona urbana,Vía pública,Masculino,20,Arma de fuego,Violencia instrumental
+2021,4,2021-04-21T06:00:00.000,miércoles,10,Zona urbana,Vía pública,Masculino,21,Arma de fuego,Violencia instrumental
+2021,5,2021-05-04T20:00:00.000,martes,5,Zona urbana,Via pública,Masculino,49,Arma de fuego,Violencia instrumental
+2021,5,2021-05-04T02:40:00.000,martes,6,Zona urbana,Vía pública,Masculino,20,Arma Contundente,Violencia impulsiva o expresiva
+2021,5,2021-05-06T06:45:00.000,jueves,Aipecito,Zona Rural,Finca o Campo Abierto,Masculino,58,Arma blanca,Desconocido / Por Establecer
+2021,5,2021-05-09T04:50:00.000,domingo,3,Zona urbana,Via pública,Masculino,26,Arma de fuego,Violencia instrumental
+2021,5,2021-05-11T21:20:00.000,martes,6,Zona urbana,Finca o Campo Abierto,Masculino,23,Arma de fuego,Violencia impulsiva o expresiva
+2021,5,2021-05-14T21:00:00.000,viernes,10,Zona urbana,Vía pública,Masculino,31,Arma de fuego,Violencia instrumental
+2021,5,2021-05-16T07:54:00.000,domingo,9,Zona urbana,Vía pública,Masculino,43,Arma de fuego,Violencia impulsiva o expresiva
+2021,5,2021-05-23T22:30:00.000,domingo,1,Zona urbana,Vía pública,Masculino,25,Arma Contundente,Violencia impulsiva o expresiva
+2021,5,2021-05-25T15:00:00.000,martes,4,Zona urbana,Vía pública,Masculino,20,Arma blanca,Violencia impulsiva o expresiva
+2021,5,2021-05-26T03:00:00.000,miércoles,10,Zona urbana,Vía pública,Masculino,54,Arma de fuego,Violencia instrumental
+2021,5,2021-05-28T00:30:00.000,viernes,8,Zona urbana,Vía pública,Masculino,35,Arma de fuego,Desconocido / Por Establecer
+2021,5,2021-05-30T03:30:00.000,domingo,Fortalecillas,Zona urbana,Rio / Laguna,Masculino,45,Arma Blanca,Desconocido / Por Establecer
+2021,5,2021-05-30T00:40:00.000,domingo,8,Zona urbana,Sin Dato,Masculino,27,Arma de fuego,Violencia impulsiva o expresiva
+2021,5,2021-05-31T00:30:00.000,lunes,10,Zona urbana,Vía pública,Masculino,21,Arma de fuego,Violencia instrumental
+2021,6,2021-06-05T17:15:00.000,sábado,4,Zona urbana,Bar o similares,Masculino,29,Arma blanca,Violencia impulsiva o expresiva
+2021,6,2021-06-06T22:05:00.000,domingo,5,Zona urbana,Vía pública,Masculino,30,Arma blanca,Violencia impulsiva o expresiva
+2021,6,2021-06-06T02:30:00.000,domingo,6,Zona urbana,Vía pública,Masculino,24,Arma de fuego,Desconocido / Por Establecer
+2021,6,2021-06-06T19:40:00.000,domingo,8,Zona urbana,Vía pública,Masculino,30,Arma blanca,Violencia impulsiva o expresiva
+2021,6,2021-06-09T00:15:00.000,miércoles,6,Zona urbana,Vía pública,Masculino,25,Arma de fuego,Violencia instrumental
+2021,6,2021-06-13T21:00:00.000,domingo,10,Zona urbana,Vía pública,Masculino,21,Arma de fuego,Violencia instrumental
+2021,6,2021-06-16T04:30:00.000,miércoles,6,Zona urbana,Via pública,Femenino,45,Arma de fuego,Violencia instrumental
+2021,6,2021-06-18T12:40:00.000,viernes,El Caguán,Zona Rural,Via pública,Masculino,66,Arma blanca,Desconocido / Por Establecer
+2021,6,2021-06-19T06:00:00.000,sábado,8,Zona urbana,Vía pública,Masculino,32,Arma de fuego,Violencia instrumental
+2021,6,2021-06-20T09:20:00.000,domingo,6,Zona urbana,Via pública,Masculino,21,Arma blanca,Violencia impulsiva o expresiva
+2021,6,2021-06-22T02:00:00.000,martes,4,Zona urbana,Via pública,Masculino,52,Arma de fuego,Violencia impulsiva o expresiva
+2021,6,2021-06-23T17:30:00.000,miércoles,Vegalarga,Zona rural,Finca o Campo Abierto,Masculino,29,Arma de fuego,Desconocido / Por Establecer
+2021,7,2021-07-04T02:30:00.000,domingo,3,Zona urbana,Casa,Masculino,40,Arma Blanca,Violencia impulsiva o expresiva
+2021,7,2021-07-09T20:25:00.000,viernes,8,Zona urbana,Casa,Masculino,34,Arma de Fuego,Violencia instrumental
+2021,7,2021-07-09T01:30:00.000,viernes,1,Zona urbana,Sin Dato,Masculino,34,Arma de Fuego,Violencia instrumental
+2021,7,2021-07-11T20:00:00.000,domingo,2,Zona urbana,Via pública,Masculino,22,Arma Blanca,Violencia instrumental
+2021,7,2021-07-12T20:30:00.000,lunes,10,Zona urbana,Via pública,Masculino,68,Arma de Fuego,Violencia instrumental
+2021,7,2021-07-23T20:30:00.000,viernes,6,Zona urbana,Via pública,Masculino,19,Arma de Fuego,Violencia instrumental
+2021,7,2021-07-26T19:51:00.000,lunes,6,Zona urbana,Via pública,Masculino,14,Arma de Fuego,Por establecer
+2021,8,2021-08-02T20:30:00.000,lunes,1,Zona urbana,Via pública,Masculino,27,Arma de Fuego,Violencia instrumental
+2021,8,2021-08-11T20:30:00.000,miércoles,1,Zona urbana,Via pública,Masculino,21,Arma de Fuego,Violencia instrumental
+2021,8,2021-08-13T19:51:00.000,viernes,2,Zona urbana,Via pública,Masculino,36,Arma de Fuego,Violencia instrumental
+2021,8,2021-08-15T01:30:00.000,domingo,San Luis,Zona Rural,Via pública,Masculino,21,Arma Blanca,Violencia impulsiva o expresiva
+2021,8,2021-08-21T22:20:00.000,sábado,1,Zona urbana,Vía pública,Masculino,51,Arma de Fuego,Violencia instrumental
+2021,8,2021-08-23T21:45:00.000,lunes,10,Zona urbana,Vía pública,Masculino,33,Arma de Fuego,Violencia instrumental
+2021,8,2021-08-23T13:10:00.000,lunes,3,Zona urbana,Vía pública,Masculino,35,Arma de Fuego,Violencia instrumental
+2021,8,2021-08-29T20:00:00.000,domingo,9,Zona urbana,Vía pública,Masculino,47,Arma de Fuego,Violencia instrumental
+2021,8,2021-08-29T11:15:00.000,domingo,6,Zona urbana,Casa,Femenino,39,Arma de Fuego,Feminicidio
+2021,9,2021-09-03T15:25:00.000,viernes,5,Zona urbana,Rio / Laguna,Masculino,20,En estudio,Por establecer
+2021,9,2021-09-03T21:30:00.000,viernes,6,Zona urbana,Via pública,Masculino,19,Arma de Fuego,Violencia impulsiva o expresiva
+2021,9,2021-09-05T04:15:00.000,domingo,9,Zona urbana,Via pública,Masculino,26,Arma Blanca,Violencia instrumental
+2021,9,2021-09-09T00:50:00.000,jueves,7,Zona urbana,Via pública,Masculino,23,Arma Blanca,Violencia impulsiva o expresiva
+2021,9,2021-09-14T19:00:00.000,martes,6,Zona urbana,Via pública,Masculino,21,Arma de Fuego,Violencia instrumental
+2021,9,2021-09-15T19:00:00.000,miércoles,10,Zona urbana,Via pública,Masculino,20,Arma de Fuego,Violencia instrumental
+2021,9,2021-09-19T01:30:00.000,domingo,9,Zona urbana,Via pública,Masculino,59,Arma de Fuego,Violencia impulsiva o expresiva
+2021,9,2021-09-19T23:00:00.000,domingo,4,Zona urbana,Casa,Masculino,74,Estrangulación /Asfixia,Por establecer
+2021,9,2021-09-19T10:30:00.000,domingo,6,Zona urbana,Via pública,Masculino,26,Arma de Fuego,Violencia instrumental
+2021,9,2021-09-24T22:45:00.000,viernes,6,Zona urbana,Via pública,Masculino,45,Arma Blanca,Violencia impulsiva o expresiva
+2021,10,2021-10-07T16:30:00.000,jueves,6,Zona urbana,Vía pública,Masculino,29,Arma de Fuego,Violencia impulsiva o expresiva
+2021,10,2021-10-07T19:00:00.000,jueves,8,Zona urbana,Vía pública,Masculino,21,Arma Blanca,Violencia impulsiva o expresiva
+2021,10,2021-10-13T06:30:00.000,miércoles,6,Zona urbana,Vía pública,Masculino,41,Arma de Fuego,Por establecer
+2021,10,2021-10-17T23:30:00.000,domingo,San Luis,Zona Rural,Casa,Masculino,19,Arma de Fuego,Violencia impulsiva o expresiva
+2021,10,2021-10-20T09:00:00.000,miércoles,10,Zona urbana,Vía pública,Masculino,48,Arma de Fuego,Violencia instrumental
+2021,10,2021-10-31T22:40:00.000,domingo,6,Zona urbana,Via pública,Masculino,16,Arma de Fuego,Por establecer
+2021,11,2021-11-01T01:20:00.000,lunes,8,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma Blanca,Violencia impulsiva o expresiva
+2021,11,2021-11-03T00:20:00.000,miércoles,6,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Por establecer
+2021,11,2021-11-06T23:45:00.000,sábado,5,Zona urbana,Espacio o Vía Pública,Masculino,61,Arma de Fuego,Violencia instrumental
+2021,11,2021-11-07T19:30:00.000,domingo,10,Zona urbana,Bar o similares,Masculino,51,Arma Blanca,Violencia impulsiva o expresiva
+2021,11,2021-11-07T22:30:00.000,domingo,1,Zona urbana,Espacio o Vía Pública,Masculino,29,Arma Blanca,Violencia impulsiva o expresiva
+2021,11,2021-11-08T04:30:00.000,lunes,2,Zona urbana,Espacio o Vía Pública,Masculino,22,Arma de Fuego,Violencia instrumental
+2021,11,2021-11-08T08:00:00.000,lunes,Vegalarga,Zona Rural,Espacio o Vía Pública,Masculino,39,Arma de Fuego,Por establecer
+2021,11,2021-11-13T08:13:00.000,sábado,4,Zona urbana,Espacio o Vía Pública,Masculino,41,Arma Blanca,Violencia impulsiva o expresiva
+2021,11,2021-11-17T00:00:00.000,miércoles,10,Zona urbana,Casa,Femenino,31,Arma Blanca,Violencia impulsiva o expresiva
+2021,11,2021-11-24T06:00:00.000,miércoles,3,Zona urbana,Bar o similares,Femenino,25,Estrangulación /Asfixia,Por establecer
+2021,12,2021-12-01T07:01:00.000,miércoles,10,Zona urbana,Espacio o Vía Pública,Masculino,23,Arma de Fuego,Violencia impulsiva o expresiva
+2021,12,2021-12-01T22:34:00.000,miércoles,6,Zona urbana,Espacio o Vía Pública,Masculino,27,Arma Blanca,Violencia impulsiva o expresiva
+2021,12,2021-12-05T02:40:00.000,domingo,Vegalarga,Zona rural,Finca o campo,Masculino,44,Arma de fuego,Violencia impulsiva o expresiva
+2021,12,2021-12-05T12:00:00.000,domingo,Aipecito,Zona rural,Espacio o Vía Pública,Masculino,41,Arma de fuego,Violencia impulsiva o expresiva
+2021,12,2021-12-02T18:00:00.000,jueves,6,Zona urbana,Espacio o Vía Pública,Masculino,34,Arma de Fuego,Violencia impulsiva o expresiva
+2021,12,2021-12-04T23:20:00.000,sábado,7,Zona urbana,Espacio o Vía Pública,Masculino,35,Arma de Fuego,Violencia impulsiva o expresiva
+2021,12,2021-12-15T20:40:00.000,miércoles,10,Zona urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia impulsiva o expresiva
+2021,12,2021-12-28T21:12:00.000,martes,4,Zona urbana,Casa,Masculino,73,Arma Blanca,Violencia impulsiva o expresiva
+2021,12,2021-12-29T03:35:00.000,miércoles,10,Zona urbana,Espacio o Vía Pública,Masculino,24,Arma de Fuego,Violencia impulsiva o expresiva
+2022,1,2022-01-01T05:15:00.000,sábado,8,Zona Urbana,Espacio o Vía Pública,Masculino,25,Arma Blanca,Violencia impulsiva o expresiva
+2022,1,2022-01-01T03:17:00.000,sábado,8,Zona Urbana,Espacio o Vía Pública,Masculino,38,Arma de fuego,Violencia impulsiva o expresiva
+2022,1,2022-01-01T03:17:00.000,sábado,8,Zona Urbana,Espacio o Vía Pública,Masculino,22,Arma de fuego,Violencia impulsiva o expresiva
+2022,1,2022-01-02T07:00:00.000,domingo,6,Zona Urbana,Espacio o Vía Pública,Masculino,47,Arma de fuego,Violencia impulsiva o expresiva
+2022,1,2022-01-11T21:55:00.000,martes,6,Zona Urbana,Espacio o Vía Pública,Masculino,34,Arma de fuego,Violencia impulsiva o expresiva
+2022,1,2022-01-11T01:20:00.000,martes,6,Zona Urbana,Espacio o Vía Pública,Masculino,23,Arma Blanca,Violencia impulsiva o expresiva
+2022,1,2022-01-12T19:45:00.000,miércoles,El Caguán,Zona Rural,Finca o Campo,Femenino,65,Arma de fuego,Violencia impulsiva o expresiva
+2022,1,2022-01-18T17:10:00.000,martes,6,Zona Urbana,Espacio o Vía Pública,Masculino,42,Arma de fuego,Violencia impulsiva o expresiva
+2022,1,2022-01-23T01:00:00.000,domingo,3,Zona Urbana,Espacio o Vía Pública,Masculino,22,Arma Blanca,Violencia impulsiva o expresiva
+2022,1,2022-01-27T04:00:00.000,jueves,2,Zona Urbana,Espacio o Vía Pública,Masculino,31,Arma Blanca,Violencia impulsiva o expresiva
+2022,1,2022-01-28T05:00:00.000,viernes,7,Zona Urbana,Casa,Masculino,34,Arma de fuego,Violencia impulsiva o expresiva
+2022,2,2022-02-13T22:00:00.000,domingo,Aipecito,Zona Rural,Espacio o Vía Pública,Masculino,28,Arma de fuego,Violencia impulsiva o expresiva
+2022,2,2022-02-13T22:00:00.000,domingo,Aipecito,Zona Rural,Espacio o Vía Pública,Masculino,42,Arma de fuego,Violencia impulsiva o expresiva
+2022,2,2022-02-23T20:10:00.000,miércoles,6,Zona Urbana,Espacio o Vía Pública,Masculino,30,Arma de fuego,Violencia impulsiva o expresiva
+2022,3,2022-03-04T07:30:00.000,viernes,Fortalecillas,Zona Rural,Espacio o Vía Pública,Masculino,21,Arma de fuego,Violencia impulsiva o expresiva
+2022,3,2022-03-22T19:30:00.000,martes,9,Zona Urbana,Espacio o Vía Pública,Masculino,57,Arma Blanca,Violencia impulsiva o expresiva
+2022,3,2022-03-28T22:40:00.000,lunes,6,Zona Urbana,Casa,Masculino,31,Arma de fuego,Violencia impulsiva o expresiva
+2022,4,2022-04-06T20:30:00.000,miércoles,6,Zona Urbana,Espacio o Vía Pública,Masculino,46,Arma de Fuego,Violencia impulsiva o expresiva
+2022,4,2022-04-11T00:45:00.000,lunes,Vegalarga,Zona Rural,Otro Lugar,Masculino,53,Arma Contundente,Violencia impulsiva o expresiva
+2022,4,2022-04-12T20:00:00.000,martes,8,Zona Urbana,Espacio o Vía Pública,Femenino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2022,4,2022-04-17T09:19:00.000,domingo,1,Zona Urbana,Espacio o Vía Pública,Masculino,62,Arma de Fuego,Violencia impulsiva o expresiva
+2022,4,2022-04-20T00:25:00.000,miércoles,10,Zona Urbana,Espacio o Vía Pública,Masculino,16,Arma de Fuego,Violencia impulsiva o expresiva
+2022,4,2022-04-20T06:45:00.000,miércoles,10,Zona Urbana,Espacio o Vía Pública,Masculino,23,Arma de Fuego,Violencia impulsiva o expresiva
+2022,4,2022-04-22T20:45:00.000,viernes,2,Zona Urbana,Espacio o Vía Pública,Masculino,29,Arma Blanca,Por establecer
+2022,5,2022-05-05T01:45:00.000,jueves,9,Zona Urbana,Espacio o Vía Pública,Masculino,37,Arma de Fuego,Por establecer
+2022,5,2022-05-15T03:45:00.000,domingo,9,Zona Urbana,Espacio o Vía Pública,Masculino,41,Arma Blanca,Violencia impulsiva o expresiva
+2022,5,2022-05-18T00:00:00.000,miércoles,Vegalarga,Zona Rural,No reportada,Masculino,59,Arma de Fuego,Por establecer
+2022,5,2022-05-13T19:10:00.000,viernes,6,Zona Urbana,Otro Lugar,Masculino,23,Arma de Fuego,Por establecer
+2022,5,2022-05-25T19:45:00.000,miércoles,6,Zona Urbana,Espacio o Vía Pública,Masculino,59,Arma Blanca,Violencia impulsiva o expresiva
+2022,5,2022-05-31T13:30:00.000,martes,6,Zona Urbana,Casa,Femenino,38,Arma Blanca,Por establecer
+2022,6,2022-06-10T12:00:00.000,viernes,2,Zona Rural,Espacio o Vía Pública,Masculino,39,Arma Blanca,Violencia impulsiva o expresiva
+2022,6,2022-06-12T00:00:00.000,domingo,1,Zona Urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2022,6,2022-06-12T00:00:00.000,domingo,1,Zona Urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2022,6,2022-06-24T18:00:00.000,viernes,7,Zona Rural,Lugar de Trabajo,Masculino,17,Arma de Fuego,Violencia impulsiva o expresiva
+2022,6,2022-06-26T09:10:00.000,domingo,8,Zona Rural,No reportada,Masculino,19,Arma Blanca,Violencia impulsiva o expresiva
+2022,7,2022-07-01T09:16:00.000,viernes,5,Zona Urbana,Espacio o Vía Pública,Masculino,34,Arma Blanca,Por establecer
+2022,7,2022-07-01T17:00:00.000,viernes,4,Zona Urbana,Espacio o Vía Pública,Masculino,23,Arma Blanca,Violencia impulsiva o expresiva
+2022,7,2022-07-02T19:45:00.000,sábado,6,Zona Urbana,Casa,Femenino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2022,7,2022-07-02T15:50:00.000,sábado,6,Zona Urbana,Espacio o Vía Pública,Masculino,24,Arma de Fuego,Violencia impulsiva o expresiva
+2022,7,2022-07-02T21:30:00.000,sábado,10,Zona Urbana,Casa,Masculino,52,Arma de Fuego,Violencia impulsiva o expresiva
+2022,7,2022-07-06T21:00:00.000,miércoles,8,Zona Urbana,Espacio o Vía Pública,Femenino,19,Arma de Fuego,Violencia impulsiva o expresiva
+2022,7,2022-07-08T10:00:00.000,viernes,4,Zona Urbana,Rio / Laguna,Masculino,42,Arma Contundente,Por establecer
+2022,7,2022-07-10T09:45:00.000,domingo,6,Zona Urbana,Espacio o Vía Pública,Masculino,36,Arma de Fuego,Violencia impulsiva o expresiva
+2022,7,2022-07-13T21:30:00.000,miércoles,2,Zona Urbana,Espacio o Vía Pública,Masculino,49,Arma de Fuego,Violencia impulsiva o expresiva
+2022,7,2022-07-17T19:30:00.000,domingo,3,Zona Urbana,Espacio o Vía Pública,Masculino,46,Arma de Fuego,Violencia impulsiva o expresiva
+2022,7,2022-07-31T02:17:00.000,domingo,10,Zona Urbana,Espacio o Vía Pública,Masculino,20,Arma de Fuego,Violencia impulsiva o expresiva
+2022,8,2022-08-07T03:25:00.000,domingo,6,Zona Urbana,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia impulsiva o expresiva
+2022,8,2022-08-14T00:20:00.000,domingo,6,Zona Urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2022,8,2022-08-22T18:00:00.000,lunes,1,Zona Urbana,Espacio o Vía Pública,Masculino,53,Arma de Fuego,Violencia impulsiva o expresiva
+2022,8,2022-08-02T21:30:00.000,martes,6,Zona Urbana,Espacio o Vía Pública,Masculino,25,Arma de Fuego,Violencia impulsiva o expresiva
+2022,8,2022-08-28T22:30:00.000,domingo,6,Zona Urbana,Casa,Masculino,3,Arma de Fuego,Violencia impulsiva o expresiva
+2022,9,2022-09-02T13:30:00.000,viernes,San Luis,Zona Rural,Espacio o Vía Pública,Masculino,42,Arma de Fuego,Violencia instrumental
+2022,9,2022-09-02T13:30:00.000,viernes,San Luis,Zona Rural,Espacio o Vía Pública,Masculino,19,Arma de Fuego,Violencia instrumental
+2022,9,2022-09-02T13:30:00.000,viernes,San Luis,Zona Rural,Espacio o Vía Pública,Masculino,20,Arma de Fuego,Violencia instrumental
+2022,9,2022-09-02T13:30:00.000,viernes,San Luis,Zona Rural,Espacio o Vía Pública,Masculino,31,Arma de Fuego,Violencia instrumental
+2022,9,2022-09-02T13:30:00.000,viernes,San Luis,Zona Rural,Espacio o Vía Pública,Masculino,18,Arma de Fuego,Violencia instrumental
+2022,9,2022-09-02T13:30:00.000,viernes,San Luis,Zona Rural,Espacio o Vía Pública,Masculino,37,Arma de Fuego,Violencia instrumental
+2022,9,2022-09-02T13:30:00.000,viernes,San Luis,Zona Rural,Espacio o Vía Pública,Masculino,39,Arma de Fuego,Violencia instrumental
+2022,9,2022-09-04T16:50:00.000,domingo,4,Zona Urbana,Espacio o Vía Pública,Masculino,39,Arma Blanca,Violencia impulsiva o expresiva
+2022,9,2022-09-06T17:20:00.000,martes,6,Zona Urbana,Espacio o Vía Pública,Masculino,34,Arma Blanca,Violencia impulsiva o expresiva
+2022,9,2022-09-08T08:00:00.000,jueves,Fortalecillas,Zona Urbana,Finca o Campo Abierto,Masculino,79,Arma Blanca,Por establecer
+2022,9,2022-09-11T21:20:00.000,domingo,9,Zona Urbana,Espacio o Vía Pública,Masculino,39,Arma Blanca,Violencia impulsiva o expresiva
+2022,9,2022-09-15T06:55:00.000,jueves,Fortalecillas,Zona Urbana,Espacio o Vía Pública,Masculino,40,Arma de Fuego,Violencia impulsiva o expresiva
+2022,9,2022-09-22T19:20:00.000,jueves,6,Zona Urbana,Espacio o Vía Pública,Masculino,61,Arma de Fuego,Violencia impulsiva o expresiva
+2022,9,2022-09-27T12:30:00.000,martes,1,Zona Urbana,Espacio o Vía Pública,Femenino,27,Arma Blanca,Violencia impulsiva o expresiva
+2022,10,2022-10-16T18:00:00.000,domingo,6,Zona Urbana,Bar o similares,Masculino,50,Arma de Fuego,Por establecer
+2022,10,2022-10-23T11:30:00.000,domingo,9,Zona Urbana,Espacio o Vía Pública,Masculino,28,Arma de Fuego,Violencia impulsiva o expresiva
+2022,11,2022-11-11T17:52:00.000,viernes,6,Zona Urbana,Espacio o Vía Pública,Masculino,19,Arma Contundente,Violencia impulsiva o expresiva
+2022,11,2022-11-05T10:57:00.000,sábado,4,Zona Urbana,Espacio o Vía Pública,Masculino,21,Arma de Fuego,Violencia impulsiva o expresiva
+2022,11,2022-11-06T01:20:00.000,domingo,4,Zona Urbana,Espacio o Vía Pública,Masculino,35,Arma de Fuego,Violencia impulsiva o expresiva
+2022,11,2022-11-11T09:00:00.000,viernes,10,Zona Urbana,Casa,Femenino,79,Arma Blanca,Violencia impulsiva o expresiva
+2022,11,2022-11-12T19:30:00.000,sábado,El Caguán,Zona Urbana,Espacio o Vía Pública,Masculino,27,Arma de Fuego,Violencia impulsiva o expresiva
+2022,11,2022-11-14T20:20:00.000,lunes,5,Zona Urbana,Espacio o Vía Pública,Masculino,66,Arma de Fuego,Violencia impulsiva o expresiva
+2022,11,2022-11-16T08:00:00.000,miércoles,1,Zona Urbana,Espacio o Vía Pública,Masculino,62,Arma de Fuego,Violencia impulsiva o expresiva
+2022,11,2022-11-20T01:35:00.000,domingo,9,Zona Urbana,Finca o campo,Masculino,22,Arma de Fuego,Por establecer
+2022,11,2022-11-21T19:18:00.000,lunes,10,Zona Urbana,Espacio o Vía Pública,Masculino,19,Arma Blanca,Violencia impulsiva o expresiva
+2022,11,2022-11-22T13:10:00.000,martes,6,Zona Urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Por establecer
+2022,12,2022-12-04T03:30:00.000,domingo,10,Zona Urbana,Bar o similares,Masculino,19,Arma de Fuego,Violencia impulsiva o expresiva
+2022,12,2022-12-13T00:00:00.000,martes,6,Zona Urbana,Espacio o Vía Pública,Masculino,66,Arma Contundente,Violencia impulsiva o expresiva
+2022,12,2022-12-19T17:30:00.000,lunes,9,Zona Urbana,Espacio o Vía Pública,Masculino,26,Arma de Fuego,Violencia impulsiva o expresiva
+2022,12,2022-12-22T21:30:00.000,jueves,6,Zona Urbana,Espacio o Vía Pública,Masculino,16,Arma de Fuego,Violencia impulsiva o expresiva
+2022,12,2022-12-04T03:30:00.000,domingo,1,Zona Urbana,Espacio o Vía Pública,Masculino,40,Arma Blanca,Violencia impulsiva o expresiva
